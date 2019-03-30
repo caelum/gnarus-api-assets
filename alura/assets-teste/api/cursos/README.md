@@ -1,0 +1,1 @@
+Todos os SVGs dos cursos, já otimizados. Nome do arquivo é o `urlName` do curso com extensão `.svg`.
