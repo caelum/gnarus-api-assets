@@ -1,0 +1,40 @@
+version: 2
+
+jobs:
+  build:
+    filter:
+      branches:
+        only:
+          - master
+        ignore:
+          - circleci_share_images
+    docker:
+      - image: circleci/php:7.1-node-browsers
+    working_directory: ~/gnarus-api-assets
+
+    steps:
+      - checkout
+      - add_ssh_keys:
+          fingerprints:
+            - "8e:39:26:dd:e9:b3:08:99:6d:d0:ce:6c:fd:f0:3b:a1"
+      - restore_cache:
+          keys:
+          - node-v1-{{ checksum "package.json" }}
+
+          - node-v1-
+      - run: yarn install
+      - save_cache:
+          key: node-v1-{{ checksum "package.json" }}
+          paths:
+          - node_modules
+
+      - run:
+          name: Executa o script e commita
+          command: |
+            if [ -n "$(git diff HEAD~1 HEAD --name-only | grep -iE *api.*svg)" ]
+            then
+              cd bin
+              ./circleci-commit.sh
+            else
+              echo "Sem svg para commitar"
+            fi

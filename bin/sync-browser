@@ -1,0 +1,3 @@
+#!/bin/bash
+
+browser-sync start --proxy="localhost:9080" --files="assets" --no-open
