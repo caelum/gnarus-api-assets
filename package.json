@@ -1,0 +1,31 @@
+{
+  "name": "gnarus-api-assets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "gnarus-api-assets": "coletor-de-slugs-local.js"
+  },
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "svgo": "^1.0.5",
+    "sync-request": "^6.0.0",
+    "webshot": "^0.18.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caelum/gnarus-api-assets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caelum/gnarus-api-assets/issues"
+  },
+  "homepage": "https://github.com/caelum/gnarus-api-assets#readme"
+}
