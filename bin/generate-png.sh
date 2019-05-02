@@ -6,7 +6,7 @@ if [ ! "$1" ]; then
 fi
 cd ..
 npm install
-php -S 0.0.0.0:9080 $1.php &
+php -S 0.0.0.0:9080 &
 cd bin
 echo "Gerando png dos icones de curso..."
 node gera-cursos-png.js $1
