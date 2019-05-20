@@ -4,8 +4,6 @@ jobs:
   build:
     filter:
       branches:
-        only:
-          - master
         ignore:
           - circleci_share_images
     docker:
