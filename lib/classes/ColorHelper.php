@@ -3,7 +3,7 @@
 require dirname( __FILE__ )."/../vendor/rgb-hsl.php";
 require dirname( __FILE__ )."/../vendor/rgb-hex.php";
 
-class ViewHelpers {
+class ColorHelper {
 
 	static function corBgAPartirDe($cor) {
 		$cor = strtoupper($cor);
@@ -76,7 +76,7 @@ class ViewHelpers {
 	}
 
 	static function corBgDadoSvg($file) {
-		return ViewHelpers::corBgAPartirDe(ViewHelpers::corPredominanteSVG($file));
+		return ColorHelper::corBgAPartirDe(ColorHelper::corPredominanteSVG($file));
 	}
 
 }
