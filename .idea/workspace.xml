@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="097703b6-bd5e-4abe-83f9-ac16b5fee14d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/bg-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/bg-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/bg-ingles-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/bg-ingles-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/bg-ingles-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/bg-ingles-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/bg-ingles-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/bg-ingles-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/bg-ingles-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/bg-ingles-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/bg-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/bg-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/bg-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/bg-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/bg-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/bg-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/carreira-avancado.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/carreira-avancado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/carreira-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/carreira-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/carreira-ingles-avancado.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/carreira-ingles-avancado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/carreira-ingles-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/carreira-ingles-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/carreira-ingles-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/carreira-ingles-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/carreira-ingles-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/carreira-ingles-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/carreira-ingles-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/carreira-ingles-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/carreira-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/carreira-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/carreira-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/carreira-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/carreira-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/carreira-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/home-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/home-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/home-ingles-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/home-ingles-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/home-ingles-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/home-ingles-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/home-ingles-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/home-ingles-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/home-ingles-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/home-ingles-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/home-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/home-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/home-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/home-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/home-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/home-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/ingles-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/ingles-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/ingles-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/ingles-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/ingles-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/ingles-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/ingles-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/ingles-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/128/pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/128/pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/bg-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/bg-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/bg-ingles-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/bg-ingles-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/bg-ingles-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/bg-ingles-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/bg-ingles-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/bg-ingles-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/bg-ingles-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/bg-ingles-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/bg-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/bg-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/bg-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/bg-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/bg-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/bg-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/carreira-avancado.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/carreira-avancado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/carreira-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/carreira-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/carreira-ingles-avancado.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/carreira-ingles-avancado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/carreira-ingles-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/carreira-ingles-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/carreira-ingles-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/carreira-ingles-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/carreira-ingles-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/carreira-ingles-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/carreira-ingles-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/carreira-ingles-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/carreira-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/carreira-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/carreira-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/carreira-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/carreira-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/carreira-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/home-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/home-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/home-ingles-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/home-ingles-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/home-ingles-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/home-ingles-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/home-ingles-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/home-ingles-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/home-ingles-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/home-ingles-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/home-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/home-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/home-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/home-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/home-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/home-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/ingles-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/ingles-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/ingles-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/ingles-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/ingles-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/ingles-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/ingles-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/ingles-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/512/pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/512/pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/carreira-avancado.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/carreira-avancado.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/carreira-basico.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/carreira-basico.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/carreira-ingles-avancado.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/carreira-ingles-avancado.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/carreira-ingles-basico.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/carreira-ingles-basico.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/carreira-ingles-iniciante.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/carreira-ingles-iniciante.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/carreira-ingles-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/carreira-ingles-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/carreira-ingles-pre-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/carreira-ingles-pre-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/carreira-iniciante.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/carreira-iniciante.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/carreira-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/carreira-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/carreiras/carreira-pre-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/carreiras/carreira-pre-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/buscar-emprego-usar-past-continuous-e-voz-passiva-no-passado-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/buscar-emprego-usar-past-continuous-e-voz-passiva-no-passado-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/comprando-ingressos-e-moedas-estrangeiras-para-viagens-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/comprando-ingressos-e-moedas-estrangeiras-para-viagens-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/condicional-e-phrasal-verbs-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/condicional-e-phrasal-verbs-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/conhecendo-novas-pessoas-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/conhecendo-novas-pessoas-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/contar-sobre-o-passado-com-used-to-e-formar-adverbios.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/contar-sobre-o-passado-com-used-to-e-formar-adverbios.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/dar-sugestoes-e-opcoes-diferentes-e-usar-dois-verbos-na-sequencia-infinitivo-ou-gerundio-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/dar-sugestoes-e-opcoes-diferentes-e-usar-dois-verbos-na-sequencia-infinitivo-ou-gerundio-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/diferenca-entre-present-perfect-e-simple-past-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/diferenca-entre-present-perfect-e-simple-past-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/fazer-comparacoes-e-usar-doesnt-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/fazer-comparacoes-e-usar-doesnt-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/fazer-comparacoes-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/fazer-comparacoes-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/fazer-convites-com-o-condicional-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/fazer-convites-com-o-condicional-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/fazer-perguntas-indiretas-e-futuro-do-subjuntivo-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/fazer-perguntas-indiretas-e-futuro-do-subjuntivo-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/fazer-perguntas-usando-o-present-perfect-com-verbos-irregulares-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/fazer-perguntas-usando-o-present-perfect-com-verbos-irregulares-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/futuro-com-going-to-e-passado-simples-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/futuro-com-going-to-e-passado-simples-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/indicar-expectativa-e-algo-que-deveria-ter-sido-com-to-be-supposed-to-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/indicar-expectativa-e-algo-que-deveria-ter-sido-com-to-be-supposed-to-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/indicar-saudades-de-algo-usar-future-perfect-e-usar-past-participle-como-adjetivo-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/indicar-saudades-de-algo-usar-future-perfect-e-usar-past-participle-como-adjetivo-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/participar-de-uma-entrevista-de-emprego-look-looking-forward-to-novas-expressoes-diferenca-story-history-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/participar-de-uma-entrevista-de-emprego-look-looking-forward-to-novas-expressoes-diferenca-story-history-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/passado-simples-e-pronomes-possessivos-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/passado-simples-e-pronomes-possessivos-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/pedindo-ajuda-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/pedindo-ajuda-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/perguntando-precos-conjugando-verbos-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/perguntando-precos-conjugando-verbos-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/perguntas-no-passado-e-preposicoes-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/perguntas-no-passado-e-preposicoes-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/preferencias-e-horarios-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/preferencias-e-horarios-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/superlativo-e-phrasal-verbs-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/superlativo-e-phrasal-verbs-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/to-feel-like-doing-something-e-imperativo-negativo-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/to-feel-like-doing-something-e-imperativo-negativo-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usando-as-estruturas-whether-or-e-either-or-e-o-plural-irregular-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usando-as-estruturas-whether-or-e-either-or-e-o-plural-irregular-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usando-pronome-na-3-pessoa-do-plural-com-pessoas-indefinidas-e-uso-de-whose-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usando-pronome-na-3-pessoa-do-plural-com-pessoas-indefinidas-e-uso-de-whose-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usando-verbos-preposicionais-com-a-preposicao-no-fim-da-frase-e-phrasal-verbs-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usando-verbos-preposicionais-com-a-preposicao-no-fim-da-frase-e-phrasal-verbs-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usar-numeros-grandes-e-anos-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usar-numeros-grandes-e-anos-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usar-numeros-ordinais-first-second-primeiro-segundo-care-about-i-dont-care-to-order-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usar-numeros-ordinais-first-second-primeiro-segundo-care-about-i-dont-care-to-order-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usar-o-present-perfect-com-o-verbo-to-have-e-dando-caronas-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usar-o-present-perfect-com-o-verbo-to-have-e-dando-caronas-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usar-past-continuous-e-voz-passiva-com-verbo-to-get-e-possessivo-para-substantivos-friend-of-mine-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usar-past-continuous-e-voz-passiva-com-verbo-to-get-e-possessivo-para-substantivos-friend-of-mine-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usar-past-perfect-continuous-e-verbos-modais-must-have-could-have-e-rather-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usar-past-perfect-continuous-e-verbos-modais-must-have-could-have-e-rather-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usar-past-perfect-na-voz-ativa-e-voz-passiva-e-verbos-modais-no-passado-start-doing-despite-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usar-past-perfect-na-voz-ativa-e-voz-passiva-e-verbos-modais-no-passado-start-doing-despite-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usar-present-perfect-continuous-have-been-doing-e-look-looking-forward-to-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usar-present-perfect-continuous-have-been-doing-e-look-looking-forward-to-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usar-pronomes-possessivos-como-mine-yours-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usar-pronomes-possessivos-como-mine-yours-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usar-second-conditional-subjuntivo-verbos-falsos-cognatos-false-friends-phrasal-verbs-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usar-second-conditional-subjuntivo-verbos-falsos-cognatos-false-friends-phrasal-verbs-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usar-should-have-verbos-modais-no-passado-out-of-though-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usar-should-have-verbos-modais-no-passado-out-of-though-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usar-subjuntivo-em-ingles-se-eu-fosse-voce-e-escolher-presentes.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usar-subjuntivo-em-ingles-se-eu-fosse-voce-e-escolher-presentes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usar-verbo-to-like-com-segundo-verbo-no-gerundio-e-to-get-to-do-something-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usar-verbo-to-like-com-segundo-verbo-no-gerundio-e-to-get-to-do-something-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usar-verbos-modais-no-passado-com-would-have-e-could-para-indicar-passado-ou-sugestao-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usar-verbos-modais-no-passado-com-would-have-e-could-para-indicar-passado-ou-sugestao-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usar-voz-passiva-no-passado-com-past-participle-e-not-com-dois-verbos-e-usar-subjuntivo-if-i-were-you-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usar-voz-passiva-no-passado-com-past-participle-e-not-com-dois-verbos-e-usar-subjuntivo-if-i-were-you-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/usar-would-rather-to-prefer-diferenca-inversao-do-condicional-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/usar-would-rather-to-prefer-diferenca-inversao-do-condicional-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/uso-da-estrutura-neither-nor-e-diferenca-entre-palavras-similares-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/uso-da-estrutura-neither-nor-e-diferenca-entre-palavras-similares-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/uso-de-expressoes-em-ingles-e-phrasal-verbs-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/uso-de-expressoes-em-ingles-e-phrasal-verbs-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/uso-de-present-perfect-continuous-uso-de-likely-e-phrasal-verbs-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/uso-de-present-perfect-continuous-uso-de-likely-e-phrasal-verbs-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/uso-de-though-como-um-reforco-adversativo-e-phrasal-verbs-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/uso-de-though-como-um-reforco-adversativo-e-phrasal-verbs-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/uso-de-verbos-relevantes-em-ingles-e-who-na-forma-de-objeto-whom-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/uso-de-verbos-relevantes-em-ingles-e-who-na-forma-de-objeto-whom-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/uso-de-whose-como-pronome-relativo-e-expressoes-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/uso-de-whose-como-pronome-relativo-e-expressoes-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/uso-de-would-e-may-i-para-fazer-convites-ou-pedidos-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/uso-de-would-e-may-i-para-fazer-convites-ou-pedidos-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/verbo-to-be-no-simple-past-e-pronomes-pessoais-de-objeto-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/verbo-to-be-no-simple-past-e-pronomes-pessoais-de-objeto-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/128/verbos-irregulares-no-simple-past-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/128/verbos-irregulares-no-simple-past-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/buscar-emprego-usar-past-continuous-e-voz-passiva-no-passado-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/buscar-emprego-usar-past-continuous-e-voz-passiva-no-passado-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/comprando-ingressos-e-moedas-estrangeiras-para-viagens-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/comprando-ingressos-e-moedas-estrangeiras-para-viagens-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/condicional-e-phrasal-verbs-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/condicional-e-phrasal-verbs-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/conhecendo-novas-pessoas-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/conhecendo-novas-pessoas-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/contar-sobre-o-passado-com-used-to-e-formar-adverbios.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/contar-sobre-o-passado-com-used-to-e-formar-adverbios.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/dar-sugestoes-e-opcoes-diferentes-e-usar-dois-verbos-na-sequencia-infinitivo-ou-gerundio-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/dar-sugestoes-e-opcoes-diferentes-e-usar-dois-verbos-na-sequencia-infinitivo-ou-gerundio-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/diferenca-entre-present-perfect-e-simple-past-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/diferenca-entre-present-perfect-e-simple-past-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/fazer-comparacoes-e-usar-doesnt-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/fazer-comparacoes-e-usar-doesnt-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/fazer-comparacoes-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/fazer-comparacoes-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/fazer-convites-com-o-condicional-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/fazer-convites-com-o-condicional-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/fazer-perguntas-indiretas-e-futuro-do-subjuntivo-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/fazer-perguntas-indiretas-e-futuro-do-subjuntivo-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/fazer-perguntas-usando-o-present-perfect-com-verbos-irregulares-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/fazer-perguntas-usando-o-present-perfect-com-verbos-irregulares-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/futuro-com-going-to-e-passado-simples-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/futuro-com-going-to-e-passado-simples-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/indicar-expectativa-e-algo-que-deveria-ter-sido-com-to-be-supposed-to-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/indicar-expectativa-e-algo-que-deveria-ter-sido-com-to-be-supposed-to-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/indicar-saudades-de-algo-usar-future-perfect-e-usar-past-participle-como-adjetivo-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/indicar-saudades-de-algo-usar-future-perfect-e-usar-past-participle-como-adjetivo-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/participar-de-uma-entrevista-de-emprego-look-looking-forward-to-novas-expressoes-diferenca-story-history-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/participar-de-uma-entrevista-de-emprego-look-looking-forward-to-novas-expressoes-diferenca-story-history-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/passado-simples-e-pronomes-possessivos-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/passado-simples-e-pronomes-possessivos-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/pedindo-ajuda-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/pedindo-ajuda-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/perguntando-precos-conjugando-verbos-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/perguntando-precos-conjugando-verbos-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/perguntas-no-passado-e-preposicoes-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/perguntas-no-passado-e-preposicoes-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/preferencias-e-horarios-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/preferencias-e-horarios-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/superlativo-e-phrasal-verbs-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/superlativo-e-phrasal-verbs-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/to-feel-like-doing-something-e-imperativo-negativo-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/to-feel-like-doing-something-e-imperativo-negativo-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usando-as-estruturas-whether-or-e-either-or-e-o-plural-irregular-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usando-as-estruturas-whether-or-e-either-or-e-o-plural-irregular-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usando-pronome-na-3-pessoa-do-plural-com-pessoas-indefinidas-e-uso-de-whose-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usando-pronome-na-3-pessoa-do-plural-com-pessoas-indefinidas-e-uso-de-whose-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usando-verbos-preposicionais-com-a-preposicao-no-fim-da-frase-e-phrasal-verbs-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usando-verbos-preposicionais-com-a-preposicao-no-fim-da-frase-e-phrasal-verbs-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usar-numeros-grandes-e-anos-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usar-numeros-grandes-e-anos-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usar-numeros-ordinais-first-second-primeiro-segundo-care-about-i-dont-care-to-order-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usar-numeros-ordinais-first-second-primeiro-segundo-care-about-i-dont-care-to-order-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usar-o-present-perfect-com-o-verbo-to-have-e-dando-caronas-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usar-o-present-perfect-com-o-verbo-to-have-e-dando-caronas-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usar-past-continuous-e-voz-passiva-com-verbo-to-get-e-possessivo-para-substantivos-friend-of-mine-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usar-past-continuous-e-voz-passiva-com-verbo-to-get-e-possessivo-para-substantivos-friend-of-mine-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usar-past-perfect-continuous-e-verbos-modais-must-have-could-have-e-rather-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usar-past-perfect-continuous-e-verbos-modais-must-have-could-have-e-rather-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usar-past-perfect-na-voz-ativa-e-voz-passiva-e-verbos-modais-no-passado-start-doing-despite-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usar-past-perfect-na-voz-ativa-e-voz-passiva-e-verbos-modais-no-passado-start-doing-despite-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usar-present-perfect-continuous-have-been-doing-e-look-looking-forward-to-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usar-present-perfect-continuous-have-been-doing-e-look-looking-forward-to-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usar-pronomes-possessivos-como-mine-yours-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usar-pronomes-possessivos-como-mine-yours-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usar-second-conditional-subjuntivo-verbos-falsos-cognatos-false-friends-phrasal-verbs-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usar-second-conditional-subjuntivo-verbos-falsos-cognatos-false-friends-phrasal-verbs-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usar-should-have-verbos-modais-no-passado-out-of-though-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usar-should-have-verbos-modais-no-passado-out-of-though-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usar-subjuntivo-em-ingles-se-eu-fosse-voce-e-escolher-presentes.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usar-subjuntivo-em-ingles-se-eu-fosse-voce-e-escolher-presentes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usar-verbo-to-like-com-segundo-verbo-no-gerundio-e-to-get-to-do-something-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usar-verbo-to-like-com-segundo-verbo-no-gerundio-e-to-get-to-do-something-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usar-verbos-modais-no-passado-com-would-have-e-could-para-indicar-passado-ou-sugestao-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usar-verbos-modais-no-passado-com-would-have-e-could-para-indicar-passado-ou-sugestao-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usar-voz-passiva-no-passado-com-past-participle-e-not-com-dois-verbos-e-usar-subjuntivo-if-i-were-you-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usar-voz-passiva-no-passado-com-past-participle-e-not-com-dois-verbos-e-usar-subjuntivo-if-i-were-you-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/usar-would-rather-to-prefer-diferenca-inversao-do-condicional-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/usar-would-rather-to-prefer-diferenca-inversao-do-condicional-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/uso-da-estrutura-neither-nor-e-diferenca-entre-palavras-similares-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/uso-da-estrutura-neither-nor-e-diferenca-entre-palavras-similares-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/uso-de-expressoes-em-ingles-e-phrasal-verbs-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/uso-de-expressoes-em-ingles-e-phrasal-verbs-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/uso-de-present-perfect-continuous-uso-de-likely-e-phrasal-verbs-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/uso-de-present-perfect-continuous-uso-de-likely-e-phrasal-verbs-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/uso-de-though-como-um-reforco-adversativo-e-phrasal-verbs-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/uso-de-though-como-um-reforco-adversativo-e-phrasal-verbs-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/uso-de-verbos-relevantes-em-ingles-e-who-na-forma-de-objeto-whom-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/uso-de-verbos-relevantes-em-ingles-e-who-na-forma-de-objeto-whom-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/uso-de-whose-como-pronome-relativo-e-expressoes-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/uso-de-whose-como-pronome-relativo-e-expressoes-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/uso-de-would-e-may-i-para-fazer-convites-ou-pedidos-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/uso-de-would-e-may-i-para-fazer-convites-ou-pedidos-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/verbo-to-be-no-simple-past-e-pronomes-pessoais-de-objeto-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/verbo-to-be-no-simple-past-e-pronomes-pessoais-de-objeto-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/512/verbos-irregulares-no-simple-past-em-ingles.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/512/verbos-irregulares-no-simple-past-em-ingles.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/buscar-emprego-usar-past-continuous-e-voz-passiva-no-passado-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/buscar-emprego-usar-past-continuous-e-voz-passiva-no-passado-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/comprando-ingressos-e-moedas-estrangeiras-para-viagens-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/comprando-ingressos-e-moedas-estrangeiras-para-viagens-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/condicional-e-phrasal-verbs-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/condicional-e-phrasal-verbs-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/conhecendo-novas-pessoas-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/conhecendo-novas-pessoas-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/contar-sobre-o-passado-com-used-to-e-formar-adverbios.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/contar-sobre-o-passado-com-used-to-e-formar-adverbios.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/dar-sugestoes-e-opcoes-diferentes-e-usar-dois-verbos-na-sequencia-infinitivo-ou-gerundio-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/dar-sugestoes-e-opcoes-diferentes-e-usar-dois-verbos-na-sequencia-infinitivo-ou-gerundio-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/diferenca-entre-present-perfect-e-simple-past-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/diferenca-entre-present-perfect-e-simple-past-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/fazer-comparacoes-e-usar-doesnt-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/fazer-comparacoes-e-usar-doesnt-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/fazer-comparacoes-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/fazer-comparacoes-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/fazer-convites-com-o-condicional-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/fazer-convites-com-o-condicional-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/fazer-perguntas-indiretas-e-futuro-do-subjuntivo-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/fazer-perguntas-indiretas-e-futuro-do-subjuntivo-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/fazer-perguntas-usando-o-present-perfect-com-verbos-irregulares-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/fazer-perguntas-usando-o-present-perfect-com-verbos-irregulares-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/futuro-com-going-to-e-passado-simples-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/futuro-com-going-to-e-passado-simples-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/indicar-expectativa-e-algo-que-deveria-ter-sido-com-to-be-supposed-to-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/indicar-expectativa-e-algo-que-deveria-ter-sido-com-to-be-supposed-to-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/indicar-saudades-de-algo-usar-future-perfect-e-usar-past-participle-como-adjetivo-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/indicar-saudades-de-algo-usar-future-perfect-e-usar-past-participle-como-adjetivo-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/participar-de-uma-entrevista-de-emprego-look-looking-forward-to-novas-expressoes-diferenca-story-history-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/participar-de-uma-entrevista-de-emprego-look-looking-forward-to-novas-expressoes-diferenca-story-history-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/passado-simples-e-pronomes-possessivos-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/passado-simples-e-pronomes-possessivos-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/pedindo-ajuda-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/pedindo-ajuda-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/perguntando-precos-conjugando-verbos-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/perguntando-precos-conjugando-verbos-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/perguntas-no-passado-e-preposicoes-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/perguntas-no-passado-e-preposicoes-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/preferencias-e-horarios-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/preferencias-e-horarios-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/superlativo-e-phrasal-verbs-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/superlativo-e-phrasal-verbs-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/to-feel-like-doing-something-e-imperativo-negativo-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/to-feel-like-doing-something-e-imperativo-negativo-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usando-as-estruturas-whether-or-e-either-or-e-o-plural-irregular-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usando-as-estruturas-whether-or-e-either-or-e-o-plural-irregular-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usando-pronome-na-3-pessoa-do-plural-com-pessoas-indefinidas-e-uso-de-whose-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usando-pronome-na-3-pessoa-do-plural-com-pessoas-indefinidas-e-uso-de-whose-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usando-verbos-preposicionais-com-a-preposicao-no-fim-da-frase-e-phrasal-verbs-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usando-verbos-preposicionais-com-a-preposicao-no-fim-da-frase-e-phrasal-verbs-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usar-numeros-grandes-e-anos-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usar-numeros-grandes-e-anos-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usar-numeros-ordinais-first-second-primeiro-segundo-care-about-i-dont-care-to-order-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usar-numeros-ordinais-first-second-primeiro-segundo-care-about-i-dont-care-to-order-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usar-o-present-perfect-com-o-verbo-to-have-e-dando-caronas-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usar-o-present-perfect-com-o-verbo-to-have-e-dando-caronas-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usar-past-continuous-e-voz-passiva-com-verbo-to-get-e-possessivo-para-substantivos-friend-of-mine-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usar-past-continuous-e-voz-passiva-com-verbo-to-get-e-possessivo-para-substantivos-friend-of-mine-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usar-past-perfect-continuous-e-verbos-modais-must-have-could-have-e-rather-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usar-past-perfect-continuous-e-verbos-modais-must-have-could-have-e-rather-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usar-past-perfect-na-voz-ativa-e-voz-passiva-e-verbos-modais-no-passado-start-doing-despite-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usar-past-perfect-na-voz-ativa-e-voz-passiva-e-verbos-modais-no-passado-start-doing-despite-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usar-present-perfect-continuous-have-been-doing-e-look-looking-forward-to-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usar-present-perfect-continuous-have-been-doing-e-look-looking-forward-to-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usar-pronomes-possessivos-como-mine-yours-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usar-pronomes-possessivos-como-mine-yours-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usar-second-conditional-subjuntivo-verbos-falsos-cognatos-false-friends-phrasal-verbs-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usar-second-conditional-subjuntivo-verbos-falsos-cognatos-false-friends-phrasal-verbs-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usar-should-have-verbos-modais-no-passado-out-of-though-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usar-should-have-verbos-modais-no-passado-out-of-though-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usar-subjuntivo-em-ingles-se-eu-fosse-voce-e-escolher-presentes.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usar-subjuntivo-em-ingles-se-eu-fosse-voce-e-escolher-presentes.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usar-verbo-to-like-com-segundo-verbo-no-gerundio-e-to-get-to-do-something-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usar-verbo-to-like-com-segundo-verbo-no-gerundio-e-to-get-to-do-something-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usar-verbos-modais-no-passado-com-would-have-e-could-para-indicar-passado-ou-sugestao-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usar-verbos-modais-no-passado-com-would-have-e-could-para-indicar-passado-ou-sugestao-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usar-voz-passiva-no-passado-com-past-participle-e-not-com-dois-verbos-e-usar-subjuntivo-if-i-were-you-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usar-voz-passiva-no-passado-com-past-participle-e-not-com-dois-verbos-e-usar-subjuntivo-if-i-were-you-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/usar-would-rather-to-prefer-diferenca-inversao-do-condicional-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/usar-would-rather-to-prefer-diferenca-inversao-do-condicional-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/uso-da-estrutura-neither-nor-e-diferenca-entre-palavras-similares-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/uso-da-estrutura-neither-nor-e-diferenca-entre-palavras-similares-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/uso-de-expressoes-em-ingles-e-phrasal-verbs-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/uso-de-expressoes-em-ingles-e-phrasal-verbs-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/uso-de-present-perfect-continuous-uso-de-likely-e-phrasal-verbs-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/uso-de-present-perfect-continuous-uso-de-likely-e-phrasal-verbs-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/uso-de-though-como-um-reforco-adversativo-e-phrasal-verbs-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/uso-de-though-como-um-reforco-adversativo-e-phrasal-verbs-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/uso-de-verbos-relevantes-em-ingles-e-who-na-forma-de-objeto-whom-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/uso-de-verbos-relevantes-em-ingles-e-who-na-forma-de-objeto-whom-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/uso-de-whose-como-pronome-relativo-e-expressoes-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/uso-de-whose-como-pronome-relativo-e-expressoes-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/uso-de-would-e-may-i-para-fazer-convites-ou-pedidos-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/uso-de-would-e-may-i-para-fazer-convites-ou-pedidos-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/verbo-to-be-no-simple-past-e-pronomes-pessoais-de-objeto-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/verbo-to-be-no-simple-past-e-pronomes-pessoais-de-objeto-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/cursos/verbos-irregulares-no-simple-past-em-ingles.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/cursos/verbos-irregulares-no-simple-past-em-ingles.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/avancado.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/avancado.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/basico.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/basico.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/bg-basico.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/bg-basico.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/bg-ingles-basico.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/bg-ingles-basico.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/bg-ingles-iniciante.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/bg-ingles-iniciante.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/bg-ingles-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/bg-ingles-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/bg-ingles-pre-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/bg-ingles-pre-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/bg-iniciante.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/bg-iniciante.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/bg-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/bg-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/bg-pre-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/bg-pre-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/home-avancado.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/home-avancado.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/home-basico.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/home-basico.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/home-ingles-avancado.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/home-ingles-avancado.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/home-ingles-basico.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/home-ingles-basico.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/home-ingles-iniciante.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/home-ingles-iniciante.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/home-ingles-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/home-ingles-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/home-ingles-pre-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/home-ingles-pre-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/home-iniciante.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/home-iniciante.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/home-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/home-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/home-pre-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/home-pre-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/ingles-avancado.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/ingles-avancado.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/ingles-basico.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/ingles-basico.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/ingles-iniciante.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/ingles-iniciante.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/ingles-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/ingles-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/ingles-pre-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/ingles-pre-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/iniciante.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/iniciante.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/modules/pre-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/modules/pre-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/avancado.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/avancado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/bg-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/bg-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/bg-ingles-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/bg-ingles-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/bg-ingles-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/bg-ingles-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/bg-ingles-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/bg-ingles-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/bg-ingles-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/bg-ingles-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/bg-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/bg-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/bg-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/bg-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/bg-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/bg-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/home-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/home-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/home-ingles-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/home-ingles-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/home-ingles-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/home-ingles-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/home-ingles-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/home-ingles-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/home-ingles-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/home-ingles-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/home-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/home-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/home-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/home-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/home-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/home-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/ingles-avancado.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/ingles-avancado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/ingles-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/ingles-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/ingles-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/ingles-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/ingles-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/ingles-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/ingles-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/ingles-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/path-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/path-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/path-ingles-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/path-ingles-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/path-ingles-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/path-ingles-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/path-ingles-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/path-ingles-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/path-ingles-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/path-ingles-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/path-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/path-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/path-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/path-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/path-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/path-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/128/pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/128/pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/avancado.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/avancado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/bg-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/bg-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/bg-ingles-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/bg-ingles-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/bg-ingles-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/bg-ingles-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/bg-ingles-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/bg-ingles-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/bg-ingles-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/bg-ingles-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/bg-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/bg-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/bg-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/bg-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/bg-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/bg-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/home-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/home-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/home-ingles-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/home-ingles-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/home-ingles-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/home-ingles-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/home-ingles-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/home-ingles-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/home-ingles-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/home-ingles-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/home-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/home-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/home-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/home-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/home-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/home-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/ingles-avancado.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/ingles-avancado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/ingles-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/ingles-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/ingles-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/ingles-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/ingles-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/ingles-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/ingles-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/ingles-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/path-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/path-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/path-ingles-basico.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/path-ingles-basico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/path-ingles-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/path-ingles-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/path-ingles-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/path-ingles-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/path-ingles-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/path-ingles-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/path-iniciante.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/path-iniciante.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/path-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/path-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/path-pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/path-pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/512/pre-intermediario.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/512/pre-intermediario.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/path-avancado.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/path-avancado.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/path-basico.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/path-basico.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/path-ingles-avancado.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/path-ingles-avancado.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/path-ingles-basico.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/path-ingles-basico.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/path-ingles-iniciante.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/path-ingles-iniciante.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/path-ingles-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/path-ingles-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/path-ingles-pre-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/path-ingles-pre-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/path-iniciante.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/path-iniciante.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/path-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/path-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/paths/path-pre-intermediario.svg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/paths/path-pre-intermediario.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/share/alura-lingua.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/share/alura-lingua.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/share/aluraLingua-forum-share.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/share/aluraLingua-forum-share.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluralingua/assets/share/image-share-aluralingua.png" beforeDir="false" afterPath="$PROJECT_DIR$/aluralingua/assets/api/share/image-share-aluralingua.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/128/apps-vazado.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/128/apps-vazado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/128/apps.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/128/apps.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/128/arte-e-criatividade-vazado.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/128/arte-e-criatividade-vazado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/128/arte-e-criatividade.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/128/arte-e-criatividade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/128/ciencia-e-simulacao-vazado.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/128/ciencia-e-simulacao-vazado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/128/ciencia-e-simulacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/128/ciencia-e-simulacao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/128/jogos-e-animacao-vazado.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/128/jogos-e-animacao-vazado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/128/jogos-e-animacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/128/jogos-e-animacao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/128/jogos-e-programacao-vazado.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/128/jogos-e-programacao-vazado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/128/jogos-e-programacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/128/jogos-e-programacao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/128/logica-computacional-vazado.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/128/logica-computacional-vazado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/128/logica-computacional.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/128/logica-computacional.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/512/apps-vazado.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/512/apps-vazado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/512/apps.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/512/apps.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/512/arte-e-criatividade-vazado.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/512/arte-e-criatividade-vazado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/512/arte-e-criatividade.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/512/arte-e-criatividade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/512/ciencia-e-simulacao-vazado.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/512/ciencia-e-simulacao-vazado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/512/ciencia-e-simulacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/512/ciencia-e-simulacao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/512/jogos-e-animacao-vazado.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/512/jogos-e-animacao-vazado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/512/jogos-e-animacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/512/jogos-e-animacao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/512/jogos-e-programacao-vazado.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/512/jogos-e-programacao-vazado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/512/jogos-e-programacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/512/jogos-e-programacao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/512/logica-computacional-vazado.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/512/logica-computacional-vazado.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/categorias/512/logica-computacional.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/categorias/512/logica-computacional.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/angulos-criando-jogo-com-matematica.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/angulos-criando-jogo-com-matematica.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/angulos-desenvolvendo-um-jogo-complexo.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/angulos-desenvolvendo-um-jogo-complexo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/app-inventor-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/app-inventor-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/app-inventor-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/app-inventor-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/app-inventor.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/app-inventor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/churrasco-com-pitagoras.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/churrasco-com-pitagoras.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/ciencia-na-pratica-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/ciencia-na-pratica-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/ciencia-na-pratica.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/ciencia-na-pratica.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/construct-criando-o-primeiro-jogo-plataforma.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/construct-criando-o-primeiro-jogo-plataforma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/construct-plataforma-vida-sons.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/construct-plataforma-vida-sons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/construct-pontuacao-sons-menu-do-jogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/construct-pontuacao-sons-menu-do-jogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/corrida-com-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/corrida-com-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/criptografia-cesar.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/criptografia-cesar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/desenhando-personagem-piskel.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/desenhando-personagem-piskel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/desenhando-um-videoclipe.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/desenhando-um-videoclipe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/desenhando-videoclip-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/desenhando-videoclip-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/desenhando-videoclipe-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/desenhando-videoclipe-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/futebol-manager-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/futebol-manager-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/futebol-manager-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/futebol-manager-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/futebol-manager.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/futebol-manager.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/graficos-com-scratch-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/graficos-com-scratch-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/graficos-juros-simples-e-compostos.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/graficos-juros-simples-e-compostos.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/graficos-visualizacao-e-juros-compostos.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/graficos-visualizacao-e-juros-compostos.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/graficos-vizualizacao-e-juros-compostos.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/graficos-vizualizacao-e-juros-compostos.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/javascript-inteligencia-artificial.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/javascript-inteligencia-artificial.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/jogo-construct-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/jogo-construct-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/jogo-construct-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/jogo-construct-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/jogo-de-troco-com-scratch-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/jogo-de-troco-com-scratch-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/jogo-de-troco-com-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/jogo-de-troco-com-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/jogos-com-scratch-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/jogos-com-scratch-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/jogos-com-scratch-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/jogos-com-scratch-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/jogos-com-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/jogos-com-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/juros-com-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/juros-com-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/labirinto-com-angulos-parte2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/labirinto-com-angulos-parte2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/movimento-browniano.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/movimento-browniano.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/obi2015-iniciacao-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/obi2015-iniciacao-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/obi2017-iniciacao1-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/obi2017-iniciacao1-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/obi2017-iniciacao2-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/obi2017-iniciacao2-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/obi2017-prognivel2fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/obi2017-prognivel2fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/obi2017-programacao1-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/obi2017-programacao1-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/obi2017-proguniversitaria-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/obi2017-proguniversitaria-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/obic.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/obic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/obj2017-programacao-junior-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/obj2017-programacao-junior-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/regra-de-tres-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/regra-de-tres-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/scratch-animacao-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/scratch-animacao-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/scratch-animacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/scratch-animacao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/scratch-efeitos-especiais.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/scratch-efeitos-especiais.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/scratch-fisica-efeitos-especiais.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/scratch-fisica-efeitos-especiais.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/scratch-inteligencia-artificial.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/scratch-inteligencia-artificial.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/scratch-seu-jogo-com-fisica-e-gravidade.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/scratch-seu-jogo-com-fisica-e-gravidade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/space-invaders-p5js-refinando-o-jogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/space-invaders-p5js-refinando-o-jogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/space-invaders-p5js.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/space-invaders-p5js.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/space-invaders-programando-com-p5js.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/space-invaders-programando-com-p5js.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/storytelling-com-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/storytelling-com-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/128/storytelling-contando-historias.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/128/storytelling-contando-historias.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/angulos-criando-jogo-com-matematica.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/angulos-criando-jogo-com-matematica.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/angulos-desenvolvendo-um-jogo-complexo.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/angulos-desenvolvendo-um-jogo-complexo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/app-inventor-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/app-inventor-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/app-inventor-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/app-inventor-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/app-inventor.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/app-inventor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/churrasco-com-pitagoras.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/churrasco-com-pitagoras.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/ciencia-na-pratica-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/ciencia-na-pratica-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/ciencia-na-pratica.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/ciencia-na-pratica.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/construct-criando-o-primeiro-jogo-plataforma.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/construct-criando-o-primeiro-jogo-plataforma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/construct-plataforma-vida-sons.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/construct-plataforma-vida-sons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/construct-pontuacao-sons-menu-do-jogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/construct-pontuacao-sons-menu-do-jogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/corrida-com-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/corrida-com-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/criptografia-cesar.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/criptografia-cesar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/desenhando-personagem-piskel.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/desenhando-personagem-piskel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/desenhando-um-videoclipe.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/desenhando-um-videoclipe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/desenhando-videoclip-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/desenhando-videoclip-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/desenhando-videoclipe-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/desenhando-videoclipe-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/futebol-manager-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/futebol-manager-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/futebol-manager-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/futebol-manager-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/futebol-manager.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/futebol-manager.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/graficos-com-scratch-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/graficos-com-scratch-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/graficos-juros-simples-e-compostos.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/graficos-juros-simples-e-compostos.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/graficos-visualizacao-e-juros-compostos.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/graficos-visualizacao-e-juros-compostos.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/graficos-vizualizacao-e-juros-compostos.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/graficos-vizualizacao-e-juros-compostos.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/javascript-inteligencia-artificial.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/javascript-inteligencia-artificial.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/jogo-construct-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/jogo-construct-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/jogo-construct-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/jogo-construct-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/jogo-de-troco-com-scratch-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/jogo-de-troco-com-scratch-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/jogo-de-troco-com-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/jogo-de-troco-com-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/jogos-com-scratch-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/jogos-com-scratch-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/jogos-com-scratch-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/jogos-com-scratch-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/jogos-com-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/jogos-com-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/juros-com-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/juros-com-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/labirinto-com-angulos-parte2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/labirinto-com-angulos-parte2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/movimento-browniano.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/movimento-browniano.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/obi2015-iniciacao-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/obi2015-iniciacao-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/obi2017-iniciacao1-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/obi2017-iniciacao1-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/obi2017-iniciacao2-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/obi2017-iniciacao2-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/obi2017-prognivel2fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/obi2017-prognivel2fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/obi2017-programacao1-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/obi2017-programacao1-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/obi2017-proguniversitaria-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/obi2017-proguniversitaria-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/obic.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/obic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/obj2017-programacao-junior-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/obj2017-programacao-junior-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/regra-de-tres-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/regra-de-tres-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/scratch-animacao-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/scratch-animacao-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/scratch-animacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/scratch-animacao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/scratch-efeitos-especiais.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/scratch-efeitos-especiais.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/scratch-fisica-efeitos-especiais.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/scratch-fisica-efeitos-especiais.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/scratch-inteligencia-artificial.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/scratch-inteligencia-artificial.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/scratch-seu-jogo-com-fisica-e-gravidade.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/scratch-seu-jogo-com-fisica-e-gravidade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/space-invaders-p5js-refinando-o-jogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/space-invaders-p5js-refinando-o-jogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/space-invaders-p5js.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/space-invaders-p5js.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/space-invaders-programando-com-p5js.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/space-invaders-programando-com-p5js.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/storytelling-com-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/storytelling-com-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/512/storytelling-contando-historias.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/512/storytelling-contando-historias.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/angulos-criando-jogo-com-matematica.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/angulos-criando-jogo-com-matematica.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/angulos-desenvolvendo-um-jogo-complexo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/angulos-desenvolvendo-um-jogo-complexo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/app-inventor-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/app-inventor-2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/app-inventor-3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/app-inventor-3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/app-inventor.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/app-inventor.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/churrasco-com-pitagoras.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/churrasco-com-pitagoras.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/ciencia-na-pratica-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/ciencia-na-pratica-2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/ciencia-na-pratica.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/ciencia-na-pratica.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/construct-criando-o-primeiro-jogo-plataforma.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/construct-criando-o-primeiro-jogo-plataforma.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/construct-plataforma-vida-sons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/construct-plataforma-vida-sons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/construct-pontuacao-sons-menu-do-jogo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/construct-pontuacao-sons-menu-do-jogo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/corrida-com-scratch.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/corrida-com-scratch.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/criptografia-cesar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/criptografia-cesar.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/desenhando-personagem-piskel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/desenhando-personagem-piskel.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/desenhando-um-videoclipe.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/desenhando-um-videoclipe.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/desenhando-videoclipe-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/desenhando-videoclipe-2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/futebol-manager-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/futebol-manager-2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/futebol-manager-3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/futebol-manager-3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/futebol-manager.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/futebol-manager.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/graficos-com-scratch-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/graficos-com-scratch-2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/graficos-juros-simples-e-compostos.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/graficos-juros-simples-e-compostos.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/graficos-visualizacao-e-juros-compostos.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/graficos-visualizacao-e-juros-compostos.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/graficos-vizualizacao-e-juros-compostos.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/graficos-vizualizacao-e-juros-compostos.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/javascript-inteligencia-artificial.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/javascript-inteligencia-artificial.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/jogo-construct-1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/jogo-construct-1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/jogo-construct-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/jogo-construct-2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/jogo-de-troco-com-scratch-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/jogo-de-troco-com-scratch-2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/jogo-de-troco-com-scratch.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/jogo-de-troco-com-scratch.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/jogos-com-scratch-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/jogos-com-scratch-2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/jogos-com-scratch-3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/jogos-com-scratch-3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/jogos-com-scratch.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/jogos-com-scratch.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/juros-com-scratch.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/juros-com-scratch.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/movimento-browniano.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/movimento-browniano.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/obi2015-iniciacao-fase1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/obi2015-iniciacao-fase1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/obi2017-iniciacao1-fase1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/obi2017-iniciacao1-fase1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/obi2017-iniciacao2-fase1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/obi2017-iniciacao2-fase1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/obi2017-prognivel2fase1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/obi2017-prognivel2fase1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/obi2017-programacao1-fase1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/obi2017-programacao1-fase1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/obi2017-proguniversitaria-fase1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/obi2017-proguniversitaria-fase1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/obic.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/obic.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/obj2017-programacao-junior-fase1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/obj2017-programacao-junior-fase1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/regra-de-tres-scratch.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/regra-de-tres-scratch.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/scratch-animacao-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/scratch-animacao-2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/scratch-animacao.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/scratch-animacao.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/scratch-efeitos-especiais.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/scratch-efeitos-especiais.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/scratch-fisica-efeitos-especiais.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/scratch-fisica-efeitos-especiais.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/scratch-inteligencia-artificial.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/scratch-inteligencia-artificial.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/scratch-seu-jogo-com-fisica-e-gravidade.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/scratch-seu-jogo-com-fisica-e-gravidade.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/space-invaders-p5js-refinando-o-jogo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/space-invaders-p5js-refinando-o-jogo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/space-invaders-programando-com-p5js.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/space-invaders-programando-com-p5js.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/storytelling-com-scratch.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/storytelling-com-scratch.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/cursos/storytelling-contando-historias.svg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/cursos/storytelling-contando-historias.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/alura-start.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/alura-start.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/aluraStart-forum-share.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/aluraStart-forum-share.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/categoria-apps.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/categoria-apps.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/categoria-arte-e-criatividade.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/categoria-arte-e-criatividade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/categoria-ciencia-e-simulacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/categoria-ciencia-e-simulacao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/categoria-jogos-e-animacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/categoria-jogos-e-animacao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/categoria-jogos-e-programacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/categoria-jogos-e-programacao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/categoria-logica-computacional.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/categoria-logica-computacional.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-angulos-criando-jogo-com-matematica.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-angulos-criando-jogo-com-matematica.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-angulos-desenvolvendo-um-jogo-complexo.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-angulos-desenvolvendo-um-jogo-complexo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-app-inventor-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-app-inventor-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-app-inventor-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-app-inventor-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-app-inventor.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-app-inventor.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-churrasco-com-pitagoras.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-churrasco-com-pitagoras.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-ciencia-na-pratica-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-ciencia-na-pratica-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-ciencia-na-pratica.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-ciencia-na-pratica.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-construct-criando-o-primeiro-jogo-plataforma.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-construct-criando-o-primeiro-jogo-plataforma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-construct-plataforma-vida-sons.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-construct-plataforma-vida-sons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-corrida-com-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-corrida-com-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-criptografia-cesar.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-criptografia-cesar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-desenhando-personagem-piskel.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-desenhando-personagem-piskel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-desenhando-um-videoclipe.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-desenhando-um-videoclipe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-desenhando-videoclipe-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-desenhando-videoclipe-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-futebol-manager-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-futebol-manager-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-futebol-manager-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-futebol-manager-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-futebol-manager.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-futebol-manager.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-graficos-juros-simples-e-compostos.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-graficos-juros-simples-e-compostos.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-graficos-visualizacao-e-juros-compostos.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-graficos-visualizacao-e-juros-compostos.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-graficos-vizualizacao-e-juros-compostos.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-graficos-vizualizacao-e-juros-compostos.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-javascript-inteligencia-artificial.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-javascript-inteligencia-artificial.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-jogo-construct-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-jogo-construct-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-jogo-construct-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-jogo-construct-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-jogo-de-troco-com-scratch-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-jogo-de-troco-com-scratch-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-jogo-de-troco-com-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-jogo-de-troco-com-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-jogos-com-scratch-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-jogos-com-scratch-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-jogos-com-scratch-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-jogos-com-scratch-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-jogos-com-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-jogos-com-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-juros-com-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-juros-com-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-movimento-browniano.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-movimento-browniano.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-obi2015-iniciacao-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-obi2015-iniciacao-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-obi2017-iniciacao1-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-obi2017-iniciacao1-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-obi2017-iniciacao2-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-obi2017-iniciacao2-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-obi2017-programacao1-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-obi2017-programacao1-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-obi2017-proguniversitaria-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-obi2017-proguniversitaria-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-obic.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-obic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-obj2017-programacao-junior-fase1.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-obj2017-programacao-junior-fase1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-regra-de-tres-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-regra-de-tres-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-scratch-animacao-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-scratch-animacao-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-scratch-animacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-scratch-animacao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-scratch-efeitos-especiais.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-scratch-efeitos-especiais.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-scratch-fisica-efeitos-especiais.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-scratch-fisica-efeitos-especiais.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-scratch-inteligencia-artificial.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-scratch-inteligencia-artificial.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-scratch-seu-jogo-com-fisica-e-gravidade.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-scratch-seu-jogo-com-fisica-e-gravidade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-space-invaders-p5js-refinando-o-jogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-space-invaders-p5js-refinando-o-jogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-space-invaders-programando-com-p5js.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-space-invaders-programando-com-p5js.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/curso-storytelling-com-scratch.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/curso-storytelling-com-scratch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alurastart/assets/share/image-share-alurastart.png" beforeDir="false" afterPath="$PROJECT_DIR$/alurastart/assets/api/share/image-share-alurastart.png" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/gera-img-share.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="111" selection-start-line="111" selection-end-line="111" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/circleci-commit.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bin/generate-png-circleci.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/gerador.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bin/generate-png.sh" />
+        <option value="$PROJECT_DIR$/bin/gera-cursos-png.js" />
+        <option value="$PROJECT_DIR$/bin/generate-png-circleci.sh" />
+        <option value="$PROJECT_DIR$/bin/gera-img-share.js" />
+        <option value="$PROJECT_DIR$/.circleci/config.yml" />
+        <option value="$PROJECT_DIR$/bin/circleci-commit.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/gnarus-api-assets.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+        <option value="$PROJECT_DIR$/.idea/gnarus-api-assets.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="482" />
+    <option name="y" value="301" />
+    <option name="width" value="940" />
+    <option name="height" value="562" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gnarus-api-assets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gnarus-api-assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gnarus-api-assets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gnarus-api-assets" type="462c0819:PsiDirectoryNode" />
+              <item name=".circleci" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gnarus-api-assets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gnarus-api-assets" type="462c0819:PsiDirectoryNode" />
+              <item name="aluralingua" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gnarus-api-assets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gnarus-api-assets" type="462c0819:PsiDirectoryNode" />
+              <item name="aluralingua" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gnarus-api-assets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gnarus-api-assets" type="462c0819:PsiDirectoryNode" />
+              <item name="alurastart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gnarus-api-assets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gnarus-api-assets" type="462c0819:PsiDirectoryNode" />
+              <item name="alurastart" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gnarus-api-assets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gnarus-api-assets" type="462c0819:PsiDirectoryNode" />
+              <item name="alurastart" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gnarus-api-assets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gnarus-api-assets" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gnarus-api-assets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gnarus-api-assets" type="462c0819:PsiDirectoryNode" />
+              <item name="musicdot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gnarus-api-assets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gnarus-api-assets" type="462c0819:PsiDirectoryNode" />
+              <item name="musicdot" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gnarus-api-assets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gnarus-api-assets" type="462c0819:PsiDirectoryNode" />
+              <item name="musicdot" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/alura/assets/api" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/musicdot/assets" />
+      <recent name="$PROJECT_DIR$/musicdot" />
+      <recent name="$PROJECT_DIR$/alurastart/assets/api" />
+      <recent name="$PROJECT_DIR$/alurastart/assets" />
+      <recent name="$PROJECT_DIR$/alurastart" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/alura/assets/api" />
+      <recent name="$PROJECT_DIR$/alura/assets/api/share" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="097703b6-bd5e-4abe-83f9-ac16b5fee14d" name="Default Changelist" comment="" />
+      <created>1556826840905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556826840905</updated>
+      <workItem from="1556826842958" duration="1971000" />
+      <workItem from="1558446506951" duration="5000" />
+      <workItem from="1558446620903" duration="2892000" />
+      <workItem from="1558450400954" duration="3574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8442000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2614728" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/cursos/128/adobe-premeire.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/cursos/128/amazon-eks-kubernetes.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/cursos/128/certificacao-oracle-7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/cursos/128/cobit5-foundations-parte-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/cursos/128/920.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/coletor-de-slugs-local.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/share/curso-zbrush-guideline.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/share/curso-iconografia-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/share/curso-editando-videos-com-pacote-adobe.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/share/curso-certificacao-csharp-criar-tipos.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/generate-png.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/share/categoria-design-ux.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/share/categoria-data-bi.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/share/categoria-front-end.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/share/categoria-infraestrutura.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/share/categoria-inovacao-gestao.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/share/categoria-marketing-digital.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/share/categoria-mobile.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/share/categoria-programacao.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/cursos/512/autodesk-3dsmax-modelagem-inorganica-parte2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/cursos/512/business-intelligence-sql-server-e-integration-services.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/cursos/512/certificacao-csharp-depurar-aplicativos.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/cursos/512/banco-de-dados-sql.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/cursos/512/angularjs.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/cursos/512/android-kotlin-parte-3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/cursos/512/3d-blender.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/share/formacao-empreendedorismo-digital.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alura/assets/api/share/formacao-devops.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/gerador.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/gera-img-share.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/gera-cursos-png.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/circleci-commit.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/generate-png-circleci.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

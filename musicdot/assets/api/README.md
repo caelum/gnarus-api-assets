@@ -1,0 +1,1 @@
+Muito cuidado aqui, porque expomos essas URLs externamente e o gnarus consome.

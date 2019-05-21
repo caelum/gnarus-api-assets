@@ -1,4 +1,6 @@
 ./generate-png-circleci.sh alura
+./generate-png-circleci.sh musicdot
+./generate-png-circleci.sh alurastart
 git config --global user.email "botcommiter@caelum.com.br"
 git config --global user.name "Bot Commitero"
 cd ..
