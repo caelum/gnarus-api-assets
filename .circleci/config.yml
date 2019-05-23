@@ -34,6 +34,7 @@ jobs:
             if [ -n "$(git diff HEAD~1 HEAD --name-only | grep -iE *api.*svg)" ]
             then
               cd bin
+              sleep 5m
               ./circleci-commit.sh
             else
               echo "Sem svg para commitar"
