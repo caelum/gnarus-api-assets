@@ -74,38 +74,38 @@ function geradorDeGeraProxima (array, tipo, url) {
   return geraProxima;
 }
 
-//// categorias
-// if (["alura", "alurastart", "musicdot", "aluralingua"].indexOf(env) >= 0) {
-//   var urlCategoria = 'http://localhost:9080/_share-img-categoria?slug=';
-//   var apiCategorias = 'https://cursos.'+env+'.com.br/api/categorias';
-//   var categorias = collectSlugs(apiCategorias, 'categorias');
-//   var geraCategorias = geradorDeGeraProxima(categorias, 'categoria', urlCategoria, env);
-//   geraCategorias();
-// }
+// categorias
+if (["alura", "alurastart", "musicdot", "aluralingua"].indexOf(env) >= 0) {
+  var urlCategoria = 'https://www.'+env+'.com.br/_share-img-categoria?slug=';
+  var apiCategorias = 'https://cursos.'+env+'.com.br/api/categorias';
+  var categorias = collectSlugs(apiCategorias, 'categorias');
+  var geraCategorias = geradorDeGeraProxima(categorias, 'categoria', urlCategoria, env);
+  geraCategorias();
+}
 
 // cursos
 if (["alura", "alurastart", "musicdot", "aluralingua"].indexOf(env) >= 0) {
-  var urlCurso = 'https://www.alura.com.br/_share-img-curso?slug=';
+  var urlCurso = 'https://www.'+env+'.com.br/_share-img-curso?slug=';
   var apiCursos = 'https://cursos.'+env+'.com.br/api/cursos';
   var cursos = collectSlugs(apiCursos, 'cursos');
   var geraCursos = geradorDeGeraProxima(cursos, 'curso', urlCurso, env);
   geraCursos();
 }
 
-// // carreiras
-// if (["alura", "aluralingua"].indexOf(env) >= 0) {
-//   var urlCarreira = 'http://localhost:9080/_share-img-carreira?slug=';
-//   var apiCarreiras = 'https://cursos.'+env+'.com.br/api/carreiras';
-//   var carreiras = collectSlugs(apiCarreiras, 'carreiras');
-//   var geraCarreiras = geradorDeGeraProxima(carreiras, 'carreira', urlCarreira, env);
-//   geraCarreiras();
-// }
+// carreiras
+if (["alura", "aluralingua"].indexOf(env) >= 0) {
+  var urlCarreira = 'https://www.'+env+'.com.br/_share-img-carreira?slug=';
+  var apiCarreiras = 'https://cursos.'+env+'.com.br/api/carreiras';
+  var carreiras = collectSlugs(apiCarreiras, 'carreiras');
+  var geraCarreiras = geradorDeGeraProxima(carreiras, 'carreira', urlCarreira, env);
+  geraCarreiras();
+}
 
-// // formacoes
-// if (["alura"].indexOf(env) >= 0) {
-// 	var urlFormacao = 'http://localhost:9080/_share-img-formacao?slug=';
-// 	var apiFormacoes = 'https://cursos.'+env+'.com.br/api/guia-de-aprendizado/lista-formacao';
-// 	var formacoes = collectSlugs(apiFormacoes, 'formacoes');
-// 	var geraFormacoes = geradorDeGeraProxima(formacoes, 'formacao', urlFormacao, env);
-// 	geraFormacoes();
-// }
+// formacoes
+if (["alura"].indexOf(env) >= 0) {
+	var urlFormacao = 'https://www.'+env+'.com.br/_share-img-formacao?slug=';
+	var apiFormacoes = 'https://cursos.'+env+'.com.br/api/guia-de-aprendizado/lista-formacao';
+	var formacoes = collectSlugs(apiFormacoes, 'formacoes');
+	var geraFormacoes = geradorDeGeraProxima(formacoes, 'formacao', urlFormacao, env);
+	geraFormacoes();
+}
