@@ -8,8 +8,8 @@ echo "Gerando as cores da {$envieName}\n";
 
 $coursesPath = "../{$envie}/assets/api/cursos/";
 
-$filePathCores = dirname( __FILE__ )."/../{$envie}/assets/api/cores-dos-cursos.yaml";
-$filePathDetalhes = dirname( __FILE__ )."/../{$envie}/assets/api/cores-detalhes-cursos.yaml";
+$filePathCores = dirname( __FILE__ )."/../{$envie}/api/cores-dos-cursos.yaml";
+$filePathDetalhes = dirname( __FILE__ )."/../{$envie}/api/cores-detalhes-cursos.yaml";
 
 $fileCoresDosCursos = fopen($filePathCores, 'w');
 $fileCoresDetalhesCursos = fopen($filePathDetalhes, 'w');
