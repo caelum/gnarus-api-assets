@@ -30,11 +30,9 @@ jobs:
 
       - run:
           name: Executa o script e commita
+          only:
+             - master
           command: |
-            if [ -n "$(git diff HEAD~1 HEAD --name-only | grep -iE *api.*svg)" ]
-            then
               cd bin
+              sleep 3m
               ./circleci-commit.sh
-            else
-              echo "Sem svg para commitar"
-            fi
