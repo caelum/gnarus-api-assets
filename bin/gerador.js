@@ -3,6 +3,8 @@ var webshot = require('webshot');
 
 var pluralizacao = {
 	'formacao': 'formacoes/',
+	'carreira' : 'carreiras/',
+	'module' : 'modules/',
 	'curso': 'cursos/',
 	'path': 'paths/',
 	'projeto': 'projetos/',
