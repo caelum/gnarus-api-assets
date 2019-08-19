@@ -1,3 +1,4 @@
+set -e
 ./generate-png-circleci.sh alura
 php geradorDeCores.php -i alura
 ./generate-png-circleci.sh musicdot
