@@ -13,6 +13,7 @@
   "devDependencies": {
     "svgo": "^1.0.5",
     "sync-request": "^6.0.0",
+    
     "webshot": "^0.18.0"
   },
   "scripts": {
