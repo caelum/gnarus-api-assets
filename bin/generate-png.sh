@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+set -e
 if [ ! "$1" ]; then
 	echo "Forneça algum site( alura ou musicdot)"
 	exit 1
