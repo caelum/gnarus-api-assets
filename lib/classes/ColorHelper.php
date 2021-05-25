@@ -60,6 +60,7 @@ class ColorHelper {
 
 		// tira cinzas e brancos
 		$cores = array_filter($cores, function($cor) {
+		    if($cor == '#031326') return false;
 			$rgb = hex2rgb($cor);
 			if ($rgb[0] == $rgb[1] && $rgb[0] == $rgb[2]) return false;
 			return true;
