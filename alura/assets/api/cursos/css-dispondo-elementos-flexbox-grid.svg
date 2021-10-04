@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FCC34F;}
+	.st1{fill:#FDCF72;}
+	.st2{fill:none;stroke:#444444;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#444444;}
+	.st4{fill:#494949;stroke:#494949;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#494949;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<g>
+			<polygon class="st0" points="47.7,11.6 48.5,16.8 2.4,33.6 1.9,22.7 1.8,16.5 42.1,1.9 47.3,4.2 			"/>
+			<polygon class="st1" points="46.1,2 48.4,5.2 1.5,21.9 2.6,4.8 5.6,1.9 34.7,1.7 			"/>
+			<g>
+				<path class="st2" d="M18.1,48.3H5.5c-1.9,0-3.4-1.6-3.4-3.5V5.8c0-2,1.5-3.5,3.4-3.5h39c1.9,0,3.4,1.6,3.4,3.5v24.6"/>
+				<path class="st2" d="M2.1,15.8"/>
+				<path class="st2" d="M47.9,15.8"/>
+			</g>
+			<circle class="st3" cx="8.2" cy="8.2" r="1.4"/>
+			<circle class="st3" cx="12.1" cy="8.2" r="1.4"/>
+			<circle class="st3" cx="15.9" cy="8.2" r="1.4"/>
+		</g>
+	</g>
+	<path class="st4" d="M28.1,27.2H8.1c-0.7,0-1.2-0.5-1.2-1.2v-9.7c0-0.7,0.5-1.2,1.2-1.2h20.1c0.7,0,1.2,0.5,1.2,1.2V26
+		C29.3,26.7,28.8,27.2,28.1,27.2z"/>
+	<path class="st5" d="M41.9,27.2h-9.3c-0.7,0-1.2-0.5-1.2-1.2v-9.7c0-0.7,0.5-1.2,1.2-1.2h9.3c0.7,0,1.2,0.5,1.2,1.2V26
+		C43.1,26.7,42.6,27.2,41.9,27.2z"/>
+	<path class="st4" d="M41.9,44.3H25.5c-0.7,0-1.2-0.5-1.2-1.2v-4.1c0-0.7,0.5-1.2,1.2-1.2h16.4c0.7,0,1.2,0.5,1.2,1.2V43
+		C43.1,43.7,42.6,44.3,41.9,44.3z"/>
+	<path class="st5" d="M41.9,35.7H25.5c-0.7,0-1.2-0.5-1.2-1.2v-4.1c0-0.7,0.5-1.2,1.2-1.2h16.4c0.7,0,1.2,0.5,1.2,1.2v4.1
+		C43.1,35.2,42.6,35.7,41.9,35.7z"/>
+	<path class="st4" d="M21.3,44.3H17c-0.7,0-1.2-0.5-1.2-1.2V30.4c0-0.7,0.5-1.2,1.2-1.2h4.3c0.7,0,1.2,0.5,1.2,1.2V43
+		C22.5,43.7,21.9,44.3,21.3,44.3z"/>
+	<g>
+		<path class="st5" d="M12.4,37.6H8.1c-0.7,0-1.2-0.5-1.2-1.2v-6c0-0.7,0.5-1.2,1.2-1.2h4.3c0.7,0,1.2,0.5,1.2,1.2v6
+			C13.6,37.1,13,37.6,12.4,37.6z"/>
+		<path class="st4" d="M12.4,44.3H8.1c-0.7,0-1.2-0.5-1.2-1.2v-2.2c0-0.7,0.5-1.2,1.2-1.2h4.3c0.7,0,1.2,0.5,1.2,1.2V43
+			C13.6,43.7,13,44.3,12.4,44.3z"/>
+	</g>
+</g>
+</svg>
