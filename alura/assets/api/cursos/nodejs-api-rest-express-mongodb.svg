@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" x="0" y="0" version="1.1" viewBox="0 0 48 47" xml:space="preserve"><style>.st3{fill:#494949;stroke:#494949;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}</style><path fill="#e589ef" d="M45.9 24.4l.4 4.1L1.6 44.8l.2-8.7.4-4.9L46.7 15l-.7 3.5z"/><path fill="#f799ff" d="M46.2 8.5l-.6 7.4L1.9 31.8v-9.3l.4-4.3 44-16z"/><path fill="none" stroke="#444" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5" d="M5.5 45.8H1.3V1.2h44.9v44.6H30.7"/><path d="M36.9 11.1v5.8l-5.1 2.9-5-2.9v-5.8l5-2.9z" class="st3"/><path fill="none" stroke="#494949" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M30.9 21.4v5.8l-5 2.8-5-2.8v-5.8l5-2.9zM25 11.1v5.8l-5 2.9-5-2.9v-5.8l5-2.9zm-6 10.2v5.8L14 30l-5-2.9v-5.8l5-2.9z"/><path d="M25 31.6v5.8l-5 2.9-5-2.9v-5.8l5-2.9z" class="st3"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 47.4 47.1" style="enable-background:new 0 0 47.4 47.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A6C1C2;}
+	.st1{fill:#B9D7D9;}
+	.st2{fill:none;stroke:#444444;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st3{fill:#494949;stroke:#494949;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill:none;stroke:#494949;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<title>2404_Node.js_API_Rest_com_Express_MongoDB</title>
+<path class="st0" d="M45.9,24.5l0.4,4.1L1.6,44.8l0.2-8.7l0.4-4.9L46.6,15l-0.7,3.5L45.9,24.5z"/>
+<path class="st1" d="M46.1,8.6L45.5,16L1.9,31.8v-9.3l0.4-4.3l44-16L46.1,8.6z"/>
+<path class="st2" d="M5.4,45.8H1.3V1.3h44.9v44.6H30.7"/>
+<path class="st3" d="M36.9,11.1v5.8l-5.1,2.9l-5-2.9v-5.8l5-2.9L36.9,11.1z"/>
+<path class="st4" d="M30.9,21.5v5.8l-5,2.8l-5-2.8v-5.8l5-2.9L30.9,21.5z M25,11.2V17l-5,2.9L15,17v-5.8l5-2.9L25,11.2z M19,21.4
+	v5.8L14,30l-5-2.9v-5.8l5-2.9L19,21.4z"/>
+<path class="st3" d="M25,31.6v5.8l-5,2.9l-5-2.9v-5.8l5-2.9L25,31.6z"/>
+</svg>
