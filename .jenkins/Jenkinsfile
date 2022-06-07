@@ -32,6 +32,8 @@ pipeline {
                          git config user.name "Bot Commitero"
                          git checkout $BRANCH_NAME
                         '''
+                        echo "Instalando dependencias"
+                        sh 'npm install'
                         echo "Build code images"
                         sh '''
                         cd bin
