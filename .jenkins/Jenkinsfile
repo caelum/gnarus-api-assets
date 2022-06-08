@@ -38,7 +38,7 @@ pipeline {
                         export NVM_DIR="\$HOME/.nvm"
                         echo "$NVM_DIR"
                         . "\$NVM_DIR/nvm.sh"
-                        nvm use --lts
+                        nvm use 10.16.0
                         npm install
                         '''
                         echo "Build code images"
@@ -48,7 +48,7 @@ pipeline {
                         export NVM_DIR="\$HOME/.nvm"
                         echo "$NVM_DIR"
                         . "\$NVM_DIR/nvm.sh"
-                         nvm use --lts
+                         nvm use 10.16.0
                         ./generate-assets.sh
                         '''
                     }
