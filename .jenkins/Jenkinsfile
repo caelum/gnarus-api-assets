@@ -7,7 +7,7 @@ pipeline {
         stage('Generate assets') {
             when {
                 allOf {
-                    branch 'master';
+                    branch 'jenkins-as-ci-cd';
                     not {
                         changelog '.*\\[ci skip\\].*'
                     };
@@ -33,11 +33,23 @@ pipeline {
                          git checkout $BRANCH_NAME
                         '''
                         echo "Instalando dependencias"
-                        sh 'npm install'
+                        sh '''
+                        set +x
+                        export NVM_DIR="\$HOME/.nvm"
+                        echo "$NVM_DIR"
+                        . "\$NVM_DIR/nvm.sh"
+                        nvm use --lts
+                        npm install
+                        '''
                         echo "Build code images"
                         sh '''
                         cd bin
-                        ./circleci-commit.sh
+                        set +x
+                        export NVM_DIR="\$HOME/.nvm"
+                        echo "$NVM_DIR"
+                        . "\$NVM_DIR/nvm.sh"
+                         nvm use --lts
+                        ./generate-assets.sh
                         '''
                     }
                 }
