@@ -1,0 +1,65 @@
+pipeline {
+    agent any
+    options {
+        timestamps()
+    }
+    stages {
+        stage('Generate assets') {
+            when {
+                allOf {
+                    branch 'master';
+                    not {
+                        changelog '.*\\[ci skip\\].*'
+                    };
+                }
+
+            }
+            steps {
+                withCredentials([usernamePassword(credentialsId: 'jenkins-alura',
+                        usernameVariable: 'jenkins-alura',
+                        passwordVariable: 'GITHUB_ACCESS_TOKEN')]) {
+                    sshagent(credentials: ['ssh-gnarus-api-assets-rw']) {
+                        echo "Deixando scripts executáveis"
+                        sh 'chmod +x bin/*.sh'
+                        echo "Configurando git"
+                        sh '''
+                         [ -d ~/.ssh ] || mkdir ~/.ssh && chmod 0700 ~/.ssh
+                         ssh-keyscan github.com >> ~/.ssh/known_hosts
+                         git remote remove origin
+                         git remote add origin git@github.com:caelum/gnarus-api-assets.git
+                         git fetch -pa
+                         git config user.email "botcommiter@caelum.com.br"
+                         git config user.name "Bot Commitero"
+                         git checkout $BRANCH_NAME
+                        '''
+                        echo "Instalando dependencias"
+                        sh '''
+                        set +x
+                        export NVM_DIR="\$HOME/.nvm"
+                        echo "$NVM_DIR"
+                        . "\$NVM_DIR/nvm.sh"
+                        nvm use 10.16.0
+                        npm install
+                        '''
+                        echo "Build code images"
+                        sh '''
+                        cd bin
+                        set +x
+                        export NVM_DIR="\$HOME/.nvm"
+                        echo "$NVM_DIR"
+                        . "\$NVM_DIR/nvm.sh"
+                         nvm use 10.16.0
+                        ./generate-assets.sh
+                        '''
+                    }
+                }
+            }
+        }
+    }
+
+    post {
+        always {
+            cleanWs()
+        }
+    }
+}
