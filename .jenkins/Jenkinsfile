@@ -50,6 +50,7 @@ pipeline {
                         . "\$NVM_DIR/nvm.sh"
                          nvm use 10.16.0
                         ./generate-assets.sh
+                        true
                         '''
                     }
                 }
