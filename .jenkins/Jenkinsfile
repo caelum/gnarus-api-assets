@@ -60,7 +60,7 @@ pipeline {
     post {
         always {
             cleanWs()
-            deletedir()
+            deleteDir()
         }
     }
 }
