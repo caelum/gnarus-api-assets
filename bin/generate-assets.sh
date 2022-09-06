@@ -8,8 +8,8 @@ php geradorDeCores.php -i alurastart
 ./generate-png-circleci.sh aluralingua
 php geradorDeCores.php -i aluralingua
 
-cd ..
-git remote
-git add .
-git commit -m "Gerando Share Images [ci skip]"
-git push -q -u origin ${BRANCH_NAME}
+#cd ..
+#git remote
+#git add .
+#git commit -m "Gerando Share Images [ci skip]"
+#git push -q -u origin ${BRANCH_NAME}

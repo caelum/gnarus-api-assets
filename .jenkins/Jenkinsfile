@@ -5,15 +5,15 @@ pipeline {
     }
     stages {
         stage('Generate assets') {
-            when {
-                allOf {
-                    branch 'master';
-                    not {
-                        changelog '.*\\[ci skip\\].*'
-                    };
-                }
-
-            }
+//             when {
+//                 allOf {
+//                     branch 'master';
+//                     not {
+//                         changelog '.*\\[ci skip\\].*'
+//                     };
+//                 }
+//
+//             }
             steps {
                 withCredentials([usernamePassword(credentialsId: 'jenkins-alura',
                         usernameVariable: 'jenkins-alura',
@@ -30,7 +30,7 @@ pipeline {
                          git fetch -pa
                          git config user.email "botcommiter@caelum.com.br"
                          git config user.name "Bot Commitero"
-                         git checkout $BRANCH_NAME
+                         git checkout jenkins-generate-assets
                         '''
                         echo "Instalando dependencias"
                         sh '''
