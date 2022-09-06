@@ -3,6 +3,9 @@ var env = process.argv[2];
 
 var geradorDeGeraProxima = require('./gerador');
 var coletorDeSlugsLocal = require('./coletor-de-slugs-local');
+var phantom = require('phantomjs-prebuilt');
+console.log('Hello, world!');
+phantom.exit();
 
 // config
 var url =  'http://0.0.0.0:9080/'+env+'/assets/api/cursos/';
