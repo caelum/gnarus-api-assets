@@ -4,7 +4,10 @@ var env = process.argv[2];
 var geradorDeGeraProxima = require('./gerador');
 var coletorDeSlugsLocal = require('./coletor-de-slugs-local');
 var phantom = require('phantomjs-prebuilt');
-console.log('Hello, world!');
+console.log('using PhantomJS version ' +
+    phantom.version.major + '.' +
+    phantom.version.minor + '.' +
+    phantom.version.patch);
 phantom.exit();
 
 // config
