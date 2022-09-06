@@ -35,6 +35,7 @@ pipeline {
                         echo "Instalando dependencias"
                         sh '''
                         set +x
+                        export OPENSSL_CONF=/etc/ssl
                         export NVM_DIR="\$HOME/.nvm"
                         echo "$NVM_DIR"
                         . "\$NVM_DIR/nvm.sh"
