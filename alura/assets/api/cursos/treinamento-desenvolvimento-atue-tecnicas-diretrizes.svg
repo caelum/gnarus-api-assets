@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#DC5E82;}
+	.st1{fill:#F56991;}
+	.st2{fill:none;stroke:#444444;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#444444;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#444444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#444444;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<polygon class="st0" points="46.47,21.43 46.47,25.67 46.69,25.34 11.34,38.2 3.83,36.57 3.22,33.7 2.98,23.22 46.76,8 
+		47.49,14.03 	"/>
+	<polygon class="st1" points="46.21,4.19 48.79,6.1 47.15,11.23 2.92,27.02 3.49,10.22 1.21,6.16 9.02,4.51 	"/>
+	<g>
+		<path class="st2" d="M46.47,30.4V10.45V9.79h0.23c1.13,0,2.05-0.92,2.05-2.05v-0.9c0-1.13-0.92-2.05-2.05-2.05H3.26
+			c-1.13,0-2.05,0.92-2.05,2.05v0.9c0,1.13,0.92,2.05,2.05,2.05h0.23l0,0.44V37h37.75l0,0"/>
+		<line class="st3" x1="2.23" y1="8.81" x2="47.85" y2="8.81"/>
+		<line class="st2" x1="25.57" y1="37.81" x2="25.57" y2="40.84"/>
+		<circle class="st2" cx="25.58" cy="43.92" r="2.62"/>
+		<g>
+			<path class="st4" d="M23.96,15.95c-4.37,0-7.91,3.54-7.91,7.91c0,4.37,3.54,7.91,7.91,7.91c4.37,0,7.91-3.54,7.91-7.91
+				l-7.91,0.02L23.96,15.95z"/>
+			<path class="st4" d="M25.98,21.65l7.93,0c0-4.37-3.54-7.91-7.91-7.91L25.98,21.65z"/>
+		</g>
+		<g>
+			<polyline class="st5" points="20.05,23.22 10.82,23.22 10.82,20.83 			"/>
+			<g>
+				<line class="st5" x1="7.51" y1="16.81" x2="15.18" y2="16.81"/>
+				<line class="st5" x1="7.51" y1="18.15" x2="15.18" y2="18.15"/>
+				<line class="st5" x1="7.51" y1="15.01" x2="9.95" y2="15.01"/>
+				<line class="st5" x1="7.51" y1="19.42" x2="15.18" y2="19.42"/>
+			</g>
+		</g>
+		<g>
+			<polyline class="st5" points="31.92,18.5 41.15,18.5 41.15,22.96 			"/>
+			<g>
+				<line class="st5" x1="42.46" y1="25.68" x2="34.8" y2="25.68"/>
+				<line class="st5" x1="42.46" y1="27.02" x2="34.8" y2="27.02"/>
+				<line class="st5" x1="42.46" y1="23.88" x2="40.02" y2="23.88"/>
+				<line class="st5" x1="42.46" y1="28.29" x2="34.8" y2="28.29"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
