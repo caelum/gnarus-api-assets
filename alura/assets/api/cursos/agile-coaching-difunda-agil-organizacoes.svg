@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E589EF;}
+	.st1{fill:#F799FF;}
+	.st2{fill:none;stroke:#444444;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#424242;}
+	.st4{fill:none;stroke:#494949;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#494949;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:9.9996;}
+</style>
+<g>
+	<g>
+		<g>
+			<polygon class="st0" points="48.54,13.45 49.24,18.85 1.94,36.06 1.34,24.85 1.34,18.45 42.74,3.45 48.04,5.75 			"/>
+			<polygon class="st1" points="46.84,3.55 49.14,6.85 1.04,24.05 2.14,6.35 5.24,3.45 35.04,3.25 			"/>
+			<g>
+				<path class="st2" d="M16.44,46.06H4.74c-1.7,0-3.1-1.4-3.1-3.1V6.75c0-1.7,1.4-3.1,3.1-3.1h40.5c1.7,0,3.1,1.4,3.1,3.1v21.6"/>
+			</g>
+			<circle class="st3" cx="8.84" cy="9.85" r="1.6"/>
+			<circle class="st3" cx="13.94" cy="9.85" r="1.6"/>
+			<circle class="st3" cx="19.14" cy="9.85" r="1.6"/>
+		</g>
+	</g>
+	<g id="workflow_00000024683701293596675490000005546488760175260545_">
+		<g>
+			<g>
+				<g>
+					<line class="st4" x1="18.14" y1="39.75" x2="15.04" y2="39.75"/>
+					<polyline class="st4" points="10.14,39.75 7.04,39.75 7.04,36.65 					"/>
+					<polyline class="st4" points="7.04,31.75 7.04,28.65 10.14,28.65 					"/>
+					<line class="st4" x1="16.54" y1="28.65" x2="19.64" y2="28.65"/>
+				</g>
+			</g>
+			<line class="st4" x1="23.34" y1="32.35" x2="23.34" y2="36.95"/>
+			<line class="st4" x1="23.34" y1="20.65" x2="23.34" y2="24.95"/>
+			<line class="st4" x1="27.14" y1="28.65" x2="36.74" y2="28.65"/>
+			<path class="st4" d="M28.54,39.75h10c0.8,0,1.5-0.7,1.5-1.5v-6.3"/>
+			<ellipse class="st5" cx="23.34" cy="28.75" rx="3.7" ry="3.7"/>
+			<path class="st4" d="M26.74,20.65h-6.8c-1.4,0-2.6-1.2-2.6-2.6l0,0c0-1.4,1.2-2.6,2.6-2.6h6.8c1.4,0,2.6,1.2,2.6,2.6l0,0
+				C29.34,19.45,28.24,20.65,26.74,20.65z"/>
+			<path class="st4" d="M42.54,31.95h-5c-0.4,0-0.8-0.3-0.8-0.8v-5c0-0.4,0.3-0.8,0.8-0.8h5c0.4,0,0.8,0.3,0.8,0.8v5
+				C43.24,31.55,42.94,31.95,42.54,31.95z"/>
+			<path class="st4" d="M27.74,42.56h-8.9c-0.4,0-0.8-0.3-0.8-0.8v-4c0-0.4,0.3-0.8,0.8-0.8h8.9c0.4,0,0.8,0.3,0.8,0.8v4
+				C28.54,42.15,28.24,42.56,27.74,42.56z"/>
+		</g>
+	</g>
+</g>
+</svg>
