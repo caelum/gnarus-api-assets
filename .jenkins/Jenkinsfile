@@ -1,7 +1,24 @@
+def getNumberOfBuildToKeep(){
+    if("master" == env.BRANCH_NAME) return "100";
+    return "5";
+}
+
+def getDaysNumberOfBuildToKeep(){
+    if("master" == env.BRANCH_NAME) return "30";
+    return "2";
+}
 pipeline {
     agent any
     options {
         timestamps()
+        buildDiscarder(
+            logRotator(
+                        daysToKeepStr: getDaysNumberOfBuildToKeep(),
+                        artifactDaysToKeepStr: getDaysNumberOfBuildToKeep(),
+                        artifactNumToKeepStr: getNumberOfBuildToKeep(),
+                        numToKeepStr: getNumberOfBuildToKeep()
+            )
+        )
     }
     stages {
         stage('Generate assets') {
