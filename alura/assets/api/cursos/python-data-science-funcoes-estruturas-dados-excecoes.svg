@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FDCF72;}
+	.st1{fill:#FCC34F;}
+	.st2{fill:none;stroke:#444444;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#444444;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#444444;}
+	.st5{fill:none;stroke:#444444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#444444;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<polygon class="st0" points="47.25,4.14 1.82,4.14 1.82,22.5 47.25,6.33 		"/>
+		<polygon class="st1" points="1.82,22.5 1.82,47.01 47.25,30.84 47.25,6.33 		"/>
+	</g>
+	<g>
+		<g id="XMLID_78_">
+			<g>
+				<line class="st2" x1="19.98" y1="13.12" x2="19.98" y2="10.8"/>
+				<polyline class="st2" points="28.87,13.57 28.87,10.66 33.78,10.66 33.78,10.66 				"/>
+				<line class="st2" x1="14.47" y1="29.67" x2="10.87" y2="29.67"/>
+				<polyline class="st2" points="8.61,12.52 8.61,20.65 19.93,20.65 19.96,24.98 				"/>
+				<line class="st2" x1="29.08" y1="40.92" x2="29.08" y2="39.45"/>
+				<polyline class="st2" points="19.98,39.42 19.98,41.02 10.36,41.02 10.36,41.02 				"/>
+				<line class="st2" x1="40.08" y1="20.65" x2="34.68" y2="20.65"/>
+				<polyline class="st2" points="39.83,32.58 41.72,32.58 41.72,37.8 				"/>
+				<circle class="st3" cx="29.08" cy="43.31" r="2.22"/>
+			</g>
+			<circle class="st3" cx="8.34" cy="41.02" r="2.22"/>
+			<circle class="st3" cx="8.34" cy="29.67" r="2.22"/>
+			<circle class="st3" cx="8.61" cy="10.3" r="2.22"/>
+			<circle class="st3" cx="19.96" cy="8.34" r="2.22"/>
+			<circle class="st3" cx="36" cy="10.66" r="2.22"/>
+			<circle class="st3" cx="42.3" cy="20.65" r="2.22"/>
+			<circle class="st3" cx="41.84" cy="40.22" r="2.22"/>
+		</g>
+		<path class="st4" d="M21.79,14.89l2.7-0.81c0,0,0.31,1.2-0.8,1.53C22.7,15.91,21.79,14.89,21.79,14.89z"/>
+		<polyline class="st5" points="18.92,17.49 16.27,17.49 15.03,16.4 		"/>
+		<line class="st5" x1="15.16" y1="18.63" x2="16.27" y2="17.49"/>
+		<g>
+			<g>
+				<g>
+					<path class="st6" d="M15.82,47.01H3.95c-1.72,0-3.15-1.42-3.15-3.15V7.14c0-1.72,1.42-3.15,3.15-3.15h41.09
+						c1.72,0,3.15,1.42,3.15,3.15v21.92"/>
+				</g>
+			</g>
+		</g>
+		<path class="st5" d="M18.92,13.32c-0.68,0-1.33,0.44-1.24,1.2c0.2,1.69,1.18,4.3,5.34,4.27c6.16-0.04,6.16-0.04,6.16-0.04
+			s1.67,0.01,1.66,2.41c-0.01,2.39-0.01,2.39-0.01,2.39v1.38h-9.86c0,0-6.68-0.19-6.68,5.22c0,4.29,6.74,3.87,6.74,3.87h6.48
+			c1.6,0,3.19-0.3,4.59-0.97c1.06-0.51,2-1.22,2-2.15c0,0,1.82,0.45,0.52,2.28c-0.51,0.71-1.44,1.23-2.4,1.61
+			c-1.43,0.56-2.99,0.81-4.55,0.81H16.83c0,0-3.14-0.14-4.22,2.49c-0.25,0.6,0.22,1.25,0.95,1.32c0.68,0.06,1.72,0.11,3.31,0.11
+			c5.11,0,5.11-0.05,5.11-0.05h7.11c0,0,8.47-0.02,10.39-5.24c1.93-5.23-4.81-7.83-4.81-7.83v-5.82c0-1.7,0.11-3.63-1.09-4.96
+			c-1.44-1.59-3.14-2.36-7.1-2.42C22.64,13.16,20.17,13.32,18.92,13.32z"/>
+		<path class="st5" d="M29.4,30.18H18.56c0,0-0.81-0.04-0.81-0.6c0-0.56,0.76-0.61,0.76-0.61h10.9c0,0,0.95,0,0.95,0.7
+			C30.35,30.2,29.4,30.18,29.4,30.18z"/>
+	</g>
+</g>
+</svg>
