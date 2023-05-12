@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B9D7D9;}
+	.st1{fill:#A6C1C2;}
+	.st2{fill:none;stroke:#444444;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#444444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#444444;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#444444;}
+</style>
+<g>
+	<g>
+		<g>
+			<path class="st0" d="M29.84,4.38l-4.35-2.84c-3.2,0-23.07,8.94-23.07,12.14l-0.53,7.8L37.51,8.81L29.84,4.38z"/>
+			<path class="st1" d="M1.89,21.48l0.53,15.13l11.5,7.56l31.02-11.04c0.74-0.42-0.82-18.75-1.8-20.74l-5.63-3.59L1.89,21.48z"/>
+		</g>
+		<g>
+			<g>
+				<path class="st2" d="M44.51,33.99V16.01c0-1.96-1.05-3.76-2.74-4.74L26.2,2.28c-1.69-0.98-3.78-0.98-5.47,0L5.16,11.27
+					c-1.7,0.98-2.74,2.78-2.74,4.74v17.98c0,1.96,1.05,3.76,2.74,4.74l15.57,8.99c1.69,0.98,3.78,0.98,5.47,0l2.2-1.27l1.42-0.82"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<path class="st3" d="M16.24,31.69H7.99c-1.15,0-2.07-0.93-2.07-2.07V15.91c0-1.15,0.93-2.07,2.07-2.07h21.46
+			c1.15,0,2.29,0.84,2.29,1.99"/>
+		<path class="st3" d="M15.9,29.17H9.02c-0.34,0-0.62-0.28-0.62-0.62V16.98c0-0.34,0.28-0.62,0.62-0.62h15.39"/>
+	</g>
+	<path class="st3" d="M42.12,28.65c0-6.37-4.54-11.68-10.57-12.87c-0.82-0.16-1.68-0.25-2.55-0.25c-7.24,0-13.12,5.87-13.12,13.12
+		c0,1.05,0.12,2.07,0.36,3.05c1.37,5.77,6.57,10.07,12.76,10.07C36.24,41.76,42.12,35.89,42.12,28.65z"/>
+	<line class="st3" x1="39.65" y1="39.25" x2="38.29" y2="37.89"/>
+	<line class="st4" x1="46.75" y1="46.39" x2="40.27" y2="39.91"/>
+	<rect x="21.63" y="29.32" class="st5" width="3.49" height="7.74"/>
+	<rect x="27.26" y="26.01" class="st5" width="3.49" height="11.06"/>
+	<rect x="32.88" y="20.23" class="st5" width="3.49" height="16.83"/>
+	<polyline class="st3" points="10.57,31.69 8.4,34.59 10.57,34.59 12.84,31.69 	"/>
+</g>
+</svg>
