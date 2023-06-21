@@ -73,7 +73,7 @@ class ColorHelper {
 			return $hsl_a[2] > $hsl_b[2];
 		});
 
-		return $cores[0];
+		return isset($cores[0])? $cores[0] : '#E43C5A';
 	}
 
 	static function corBgDadoSvg($file) {
