@@ -1,1 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" x="0" y="0" version="1.1" viewBox="0 0 50 50" xml:space="preserve"><style>.st3{fill:#444}.st4,.st5{fill:#494949;stroke:#494949;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}.st5{fill:none}</style><path fill="#fcc34f" d="M47.7 11.6l.8 5.2L2.4 33.6l-.5-10.9-.1-6.2L42.1 1.9l5.2 2.3z"/><path fill="#fdcf72" d="M46.1 2l2.3 3.2L1.5 21.9 2.6 4.8l3-2.9 29.1-.2z"/><path fill="none" stroke="#444" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5" d="M18.1 48.3H5.5c-1.9 0-3.4-1.6-3.4-3.5v-39c0-2 1.5-3.5 3.4-3.5h39c1.9 0 3.4 1.6 3.4 3.5v24.6"/><circle cx="8.2" cy="8.2" r="1.4" class="st3"/><circle cx="12.1" cy="8.2" r="1.4" class="st3"/><circle cx="15.9" cy="8.2" r="1.4" class="st3"/><circle cx="25.4" cy="36.4" r="4" class="st4"/><circle cx="12.7" cy="23.8" r="4" class="st5"/><path d="M33.2 19.8h7.9v7.9h-7.9z" class="st4"/><path d="M8.7 32.4h7.9v7.9H8.7zM27.2 20h-4.5l-2.3 3.8 2.3 3.9h4.5l2.2-3.9zm10 12.8L33 40h8.3z" class="st5"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#B9D7D9;}
+	.st1{fill:#A6C1C2;}
+	.st2{fill:none;stroke:#454444;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#444444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#444444;}
+	.st5{fill:none;stroke:#444444;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<g>
+			<path class="st0" d="M36.02,7.74l-11.5-5c-12.5,5.5-17.75,5.75-22,7.5L1.89,24.82L47.67,8.53l-1.65,0.45
+				C46.02,7.87,37.14,7.74,36.02,7.74z"/>
+			<path class="st1" d="M1.89,24.82l0.13,11.91c0.29,2,3.38,3.19,5.38,3.47l10.62,1.28c0.25,0.03-2.99,3.34-2.75,3.25l32.4-11.51
+				V11.39c0-1.39-1.38-2.37-2.69-1.9L1.89,24.82z"/>
+		</g>
+		<g>
+			<polyline class="st2" points="32.04,43.37 32.04,40.41 39.02,40.41 			"/>
+			<path class="st2" d="M13.54,7.7H8.6c-3.8,0-6.89,3.08-6.89,6.89V34.1c0,3.8,3.08,6.89,6.89,6.89l9.67,0.25l0.06,2.13
+				c-4.61,0-4.73,4.37-4.73,4.37h22.8c0,0,0.83-4.37-4.36-4.37"/>
+			<path class="st2" d="M48.27,34.74l0.02-20.15c0-3.8-3.08-6.89-6.89-6.89h-5.38"/>
+		</g>
+		<line class="st3" x1="5.96" y1="33.45" x2="44.09" y2="33.45"/>
+		<path class="st3" d="M25,36.25"/>
+		<path class="st4" d="M27.16,38.03h-4.27c-0.55,0-1-0.45-1-1v-0.41c0-0.55,0.45-1,1-1h4.27c0.55,0,1,0.45,1,1v0.41
+			C28.16,37.58,27.71,38.03,27.16,38.03z"/>
+		<path class="st5" d="M37.27,40.99"/>
+		<path class="st5" d="M15.02,43.74"/>
+	</g>
+	<g>
+		<path class="st3" d="M39.15,12.38c0,0-6.34,9.25-14.15,9.25s-14.02-9.34-14.02-9.34s6.21-8.91,13.59-8.91S39.15,12.38,39.15,12.38
+			z"/>
+		<line class="st3" x1="39.3" y1="21.66" x2="36.82" y2="19.17"/>
+		<line class="st3" x1="33.06" y1="26.3" x2="31.77" y2="23.36"/>
+		<line class="st3" x1="24.93" y1="27.77" x2="25" y2="24.8"/>
+		<line class="st3" x1="16.94" y1="26.3" x2="18.31" y2="22.99"/>
+		<line class="st3" x1="10.7" y1="21.66" x2="13.18" y2="19.17"/>
+		<circle class="st3" cx="24.93" cy="12.29" r="1.8"/>
+		<circle class="st3" cx="24.93" cy="12.29" r="5.67"/>
+		<path class="st3" d="M24.57,3.38c7.4-0.45,14.59,8.69,14.58,9"/>
+	</g>
+	<g>
+		<path class="st5" d="M13.97,7.7c2.51-2.5,6.47-5.14,10.7-5.14c4.21,0,8.26,2.62,11.05,5.14"/>
+		<path class="st5" d="M24.57,2.26"/>
+	</g>
+</g>
+</svg>
