@@ -93,7 +93,7 @@ if (["alura", "alurastart", "musicdot", "aluralingua"].indexOf(env) >= 0) {
 }
 
 // carreiras
-if (["alura", "aluralingua"].indexOf(env) >= 0) {
+if (["aluralingua"].indexOf(env) >= 0) {
   var urlCarreira = 'https://www.'+env+'.com.br/_share-img-carreira?slug=';
   var apiCarreiras = 'https://cursos.'+env+'.com.br/api/carreiras';
   var carreiras = collectSlugs(apiCarreiras, 'carreiras');
