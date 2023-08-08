@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="Camada_3" x="0" y="0" version="1.1" viewBox="0 0 50 50" xml:space="preserve"><style>.st3,.st4{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke:#444}.st4{stroke-width:2.5}</style><path fill="#00dffc" d="M769 1206.7h-43.8c-1.2 0-2.1.9-2.1 2.1v17.3l44.5-15.2c.1 0 0-.4 0-.5 0-1.2 2.6-3.7 1.4-3.7z"/><path fill="#00c8e2" d="M723.1 1226.1v25.9l34.8-12.4-8.9-10.8 13-13.1 4.8-5.2z"/><path d="M768.5 1207.3l-44.4 44.4m26.4-45.7l-27.6 27.3" class="st3"/><path d="M753.6 1252.5h-28.9c-1.1 0-2.1-.9-2.1-2.1V1208c0-1.1.9-2.1 2.1-2.1h43.2c1.4 0 2.1 1.7 1.1 2.7l-20.9 20.7 9.9 9.9 7.9 7.9" class="st4"/><path fill="#c3ff68" d="M47.9 2.4H4.1C2.9 2.4 2 3.3 2 4.5v17.3L46.5 6.6c.1 0 0-.4 0-.5 0-1.2 2.6-3.7 1.4-3.7z"/><path fill="#afe55d" d="M2 21.8v25.9l34.8-12.4-9.2-10.1 13.3-13.8 4.8-5.2z"/><path d="M47.4 3.1L3.1 47.4M29.4 1.8L1.9 29" class="st3"/><path d="M32.5 48.2H3.6c-1.1 0-2.1-.9-2.1-2.1V3.8c0-1.1.9-2.1 2.1-2.1h43.2c1.4 0 2.1 1.7 1.1 2.7L26.4 25.2 36.9 35l7.9 7.9" class="st4"/></svg>
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1401_2)">
+<path d="M47.9 2.3999H4.1C2.9 2.3999 2 3.2999 2 4.4999V21.7999L46.5 6.5999C46.6 6.5999 46.5 6.1999 46.5 6.0999C46.5 4.8999 49.1 2.3999 47.9 2.3999Z" fill="#C3FF68"/>
+<path d="M2 21.8V47.7L36.8 35.2999L27.6 25.2L40.9 11.4L45.7 6.19995L2 21.8Z" fill="#AFE55D"/>
+<path d="M47.3999 3.10005L3.0999 47.4001M29.3999 1.80005L1.8999 29" stroke="#444444" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32.5 48.2H3.6C2.5 48.2 1.5 47.2999 1.5 46.0999V3.79995C1.5 2.69995 2.4 1.69995 3.6 1.69995H46.8C48.2 1.69995 48.9 3.39995 47.9 4.39995L26.4 25.2L36.9 35L44.8 42.9" stroke="#444444" stroke-width="2.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1401_2">
+<rect width="50" height="50" fill="white"/>
+</clipPath>
+</defs>
+</svg>
