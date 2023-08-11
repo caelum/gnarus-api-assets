@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#22DD6D;}
+	.st1{fill:none;stroke:#444444;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#444444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#444444;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<g>
+			<path class="st0" d="M46.2,13.43l-5.39-4.91l-8.64-7.08L20.41,3.12c-3.3,0-16.26,8.33-16.26,11.64L2.48,26.4l1.68,12.04
+				l11.88,7.81l30.28-10.78l1.94-9.07C49.01,25.96,47.22,15.48,46.2,13.43z"/>
+		</g>
+	</g>
+	<g>
+		<polyline class="st1" points="28.7,48.49 17.3,47.83 4.88,40.22 2.48,26.4 5.08,11.17 18.51,3.36 31.53,2.15 45.95,12.37 
+			47.76,25.4 44.75,40.22 39.11,43.76 		"/>
+		<polyline class="st2" points="2.48,26.4 14.5,28.11 24.22,41.79 18.91,47.82 		"/>
+		<polyline class="st2" points="45.01,12.09 41.41,18.84 41.23,35.22 24.22,41.79 		"/>
+		<line class="st2" x1="44.47" y1="39.81" x2="41.23" y2="35.22"/>
+		<polyline class="st2" points="14.5,28.11 24.58,14.07 41.41,18.84 		"/>
+		<line class="st2" x1="18.51" y1="3.36" x2="24.58" y2="14.07"/>
+		<polygon class="st3" points="17.53,27.96 25.57,16.92 39.01,20.4 39.13,33.48 25.09,39.12 		"/>
+		<polygon class="st3" points="21.17,28.09 27.03,20.04 36.84,22.58 36.93,32.12 26.68,36.24 		"/>
+		<polygon class="st3" points="24.81,28.35 28.5,23.28 34.68,24.88 34.73,30.89 28.28,33.48 		"/>
+	</g>
+</g>
+</svg>
