@@ -1,1 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="Camada_3" x="0" y="0" version="1.1" viewBox="0 0 50 50" xml:space="preserve"><style>.st4{fill:none;stroke:#444;stroke-miterlimit:10}.st5{fill:#444}</style><path fill="#00dffc" d="M36.29 4.42l7.42 5.6 1.96 6.83L1.75 32.87l.91-13.9L8.54 8.61l14.05-6.43z"/><path fill="#00c8e2" d="M47.87 20.96l.5 8.97-38.9 13.99L6.8 41.4l-2.98-5.35-2.18-8.1 42.58-16.36 2.18 4.24z"/><path fill="#444" stroke="#444" stroke-miterlimit="10" d="M13.64 25.73V20.6"/><circle cx="13.64" cy="17.58" r="2.76" fill="none" stroke="#444" stroke-miterlimit="10" stroke-width=".5"/><path d="M34.51 25.73h1.2c1.88 0 3.41 1.53 3.41 3.41V43.5c0 1.88-1.53 3.41-3.41 3.41H14.29c-1.88 0-3.41-1.53-3.41-3.41V29.13c0-1.88 1.53-3.41 3.41-3.41h17.28" class="st4"/><path d="M10.88 39.93h-.83c-1.75 0-3.17-1.42-3.17-3.17v-2.73c0-1.75 1.42-3.17 3.17-3.17h.83v9.07zm28.24 0h.83c1.75 0 3.17-1.42 3.17-3.17v-2.73c0-1.75-1.42-3.17-3.17-3.17h-.83v9.07z" class="st4"/><circle cx="19.22" cy="34.32" r="1.77" class="st5"/><circle cx="23.22" cy="16.21" r="1.4" class="st5"/><circle cx="28.72" cy="16.21" r="1.4" class="st5"/><circle cx="34.22" cy="16.21" r="1.4" class="st5"/><circle cx="30.42" cy="34.32" r="1.77" class="st5"/><path fill="none" stroke="#444" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width=".5" d="M20.26 39.82s4.63 4.48 9.11 0M35 8.6H22.44c-2 0-3.62 1.62-3.62 3.62v7.32c0 2 1.62 3.62 3.62 3.62h7.52l4.54 7.26v-7.26h.5c2 0 3.62-1.62 3.62-3.62v-7.32C38.62 10.23 37 8.6 35 8.6z"/><path fill="none" stroke="#444" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.5" d="M39.91 45.04s-1.62 2.78-3.59 2.78H13.91c-2.89 0-4-3.19-4-3.19-5.72-4.3-8.46-11.2-8.46-18.91C1.45 12.72 12 2.18 25 2.18s23.55 10.54 23.55 23.55c0 2.55-.26 5-.8 7.3"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 49 50" style="enable-background:new 0 0 49 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FCC34F;}
+	.st1{fill:none;stroke:#444444;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#444444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#444444;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#444444;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#444444;}
+	.st6{fill:none;stroke:#444444;stroke-width:0.5;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M26.7,4.8l-4.9,0.7l-2.1,4.7c-0.2,0-3.7,0.7-3.9,0.8l-6.6,4.8c-3.1,0-6.7,1.3-6.7,4.4l-0.7,8l5.2,4.1l8.5,6.6
+		c1.3,1,2.9,1.3,4.5,0.7l26.1-9.4c0.4-0.2,2.2-2.1,1.6-7.6c-0.3-3.3-8.4-8.6-15.4-11C26.9,9.8,28.4,5.1,26.7,4.8z"/>
+	<g>
+		<path class="st1" d="M28.5,17.4l-8.7,0c-2,0-3.8,0.8-5,2.1c-1.4,1.4-2.2,3.4-2.1,5.5c0.2,3.8,3.6,6.7,7.4,6.7l8.7,0
+			c2,0,3.8-0.8,5-2.1c1.4-1.4,2.2-3.4,2.1-5.5C35.7,20.3,32.3,17.4,28.5,17.4z"/>
+		<path class="st1" d="M10.5,19.7c1.8-3.8,5.7-6.5,10.2-6.5h7.1c4.5,0,8.4,2.6,10.2,6.5"/>
+		<path class="st2" d="M21.6,35.8h-0.9c-4.5,0-8.4-2.7-10.2-6.5"/>
+		<path class="st2" d="M10.5,29.2C10.5,29.3,10.5,29.3,10.5,29.2c-2.9,0-5.2-2.1-5.2-4.7c0-2.6,2.5-4.8,5.2-4.8c0,0,0.1,0,0.1,0.1
+			L10.5,29.2z"/>
+		<path class="st2" d="M38.1,29.1c0,0,0,0.2,0,0.2c2.8,0,5.2-2.2,5.2-4.8c0-2.6-2.5-4.8-5.2-4.8c0,0-0.1,0-0.1,0.1L38.1,29.1z"/>
+		<circle class="st3" cx="24.4" cy="9.2" r="1.8"/>
+		<ellipse class="st3" cx="24.9" cy="35.8" rx="3" ry="2.4"/>
+		<line class="st1" x1="24.3" y1="10.9" x2="24.3" y2="17.4"/>
+	</g>
+	<path class="st4" d="M29,39.5c-0.7,0.5-2.3,1.3-4.5,1.1h-0.1c-1.6,0-2.8-0.6-3.4-1.1c-0.4-0.3-0.8-0.4-1.3-0.4
+		c-7.2-0.2-9.8-3.4-10.7-5.3c-0.4-0.8-1.1-1.4-1.9-1.5c-3.7-0.6-5.6-3.7-5.6-7.8c0-4.2,3.1-7.7,7.1-8.2c0.7-0.1,1.4-0.4,1.8-1
+		c1-1.4,3.5-4,8.2-4.4c0.7-0.1,1.2-0.6,1.3-1.3c0.2-1.7,0.9-4.8,4.4-4.8h0.6c3.4,0,4.2,3,4.4,4.8c0.1,0.7,0.6,1.2,1.3,1.3
+		c4.6,0.4,7.1,3,8.2,4.4c0.4,0.6,1.1,0.9,1.8,1c4,0.6,7.1,4,7.1,8.2c0,4-1.9,7-5.5,7.7c0,0-4.2,0-6.3,1.9"/>
+	<circle class="st5" cx="18.9" cy="23.3" r="1.2"/>
+	<circle class="st5" cx="29.6" cy="23.3" r="1.2"/>
+	<path class="st6" d="M24.3,28.4c-1.4,0-2.5-0.7-2.9-1.7c-0.1-0.3,0.2-0.6,0.5-0.6h4.4c0.7,0,1,0.4,0.8,0.7
+		C26.8,27.7,25.6,28.4,24.3,28.4z"/>
+	<line class="st2" x1="38.1" y1="19.7" x2="38.1" y2="29.1"/>
+	<line class="st2" x1="10.5" y1="29.2" x2="10.5" y2="19.7"/>
+</g>
+</svg>
