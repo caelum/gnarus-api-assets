@@ -5,12 +5,12 @@
 <style type="text/css">
 	.st0{fill:#FF6B6B;}
 	.st1{fill:none;stroke:#444444;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#454444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#444444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 	
-		.st3{fill:none;stroke:#454444;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:0,3;}
-	.st4{fill:none;stroke:#454444;stroke-linecap:round;stroke-linejoin:bevel;}
-	.st5{fill:none;stroke:#454444;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:1.8756,1.8756;}
-	.st6{fill:none;stroke:#454444;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:2.1964,2.1964;}
+		.st3{fill:none;stroke:#444444;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:0,3;}
+	.st4{fill:none;stroke:#444444;stroke-linecap:round;stroke-linejoin:bevel;}
+	.st5{fill:none;stroke:#444444;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:1.8756,1.8756;}
+	.st6{fill:none;stroke:#444444;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:2.1964,2.1964;}
 </style>
 <g>
 	<path class="st0" d="M47.6,11.6l0.5-0.5l-1.9-3.8L30.8,7.7C27.6,7.7,3,4.8,3,8L1.3,18l1.2,23.5L16,42.2l31-11
