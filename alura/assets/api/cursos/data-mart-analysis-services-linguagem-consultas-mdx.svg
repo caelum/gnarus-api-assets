@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C3FF68;}
+	.st1{fill:none;stroke:#444444;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#444444;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#444444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#414141;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M27,2.4l-3.4-0.5c-1.4,0-19.7,17.6-19.7,19l-0.6,4.9v9.7l0.1,9.1c0,1.6,1.3,2.9,2.9,3l9.5,0.5l30.6-10.9
+			c0.9-0.3,1.5-1.2,1.5-2.2l-0.6-12.9l-7-7.1l-7.1-7.2C33.3,6.5,28.4,2.4,27,2.4z"/>
+		<path class="st1" d="M47,38.3V23.1c0-1-0.4-2-1.2-2.8L27.9,2.6c-1.5-1.5-4-1.5-5.6,0l-17.5,18c-0.7,0.7-1.1,1.7-1.1,2.7V45
+			c0,1.9,1.4,3.4,3.2,3.4h25.6"/>
+		<polyline class="st2" points="6.9,24.6 25,5.9 43.8,24.6 		"/>
+		<polyline class="st2" points="40.2,21 40.2,38.7 10.6,38.7 10.6,21 		"/>
+		<rect x="23.1" y="40.6" class="st3" width="4.4" height="4.4"/>
+		<line class="st2" x1="25.3" y1="36.3" x2="25.3" y2="40.4"/>
+		<line class="st2" x1="27.7" y1="42.8" x2="40.9" y2="42.8"/>
+		<line class="st2" x1="9.8" y1="42.8" x2="23" y2="42.8"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<polyline class="st4" points="21.8,31.3 18.2,27.7 21.8,24.2 					"/>
+					<polyline class="st4" points="28.7,31.3 32.3,27.7 28.7,24.2 					"/>
+					<line class="st4" x1="26.6" y1="22.6" x2="23.9" y2="32.8"/>
+				</g>
+			</g>
+			<path class="st4" d="M33.6,35.9H16.9c-1.8,0-3.2-1.4-3.2-3.2v-9.9c0-1.8,1.4-3.2,3.2-3.2h16.7c1.8,0,3.2,1.4,3.2,3.2v9.9
+				C36.8,34.4,35.4,35.9,33.6,35.9z"/>
+		</g>
+	</g>
+</g>
+</svg>
