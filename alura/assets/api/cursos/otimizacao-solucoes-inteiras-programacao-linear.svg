@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D1BD00;}
+	.st1{fill:#F9F941;}
+	.st2{fill:none;stroke:#444444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:#444444;}
+	.st4{fill:none;stroke:#444444;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#444444;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#454545;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<polygon class="st0" points="25,20.6 32.8,23 26.1,27.8 26.2,36 19.6,31.1 11.9,33.7 14.5,25.9 9.6,19.4 17.8,19.5 22.5,12.8 	"/>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<g>
+							<path class="st1" d="M44.3,5.9L7.8,6c-2.9,0-6,0.9-6,3.8v13.7L1.5,33.7c0.4,6.3,7,6.5,15.2,6l0.9,5.2L33,39.5L48.5,34
+								l-0.2-23.9L44.3,5.9z"/>
+							<g>
+								<g>
+									<g>
+										<path class="st2" d="M32.5,38.9L6.8,38.8c-2.6,0-5.5-2-5.5-4.6"/>
+										<path class="st2" d="M31.5,44.9H17.7c-0.5,0-0.9-0.6-0.6-1l2.4-4.8h10.3l2.5,4.8C32.4,44.3,32,44.9,31.5,44.9z"/>
+									</g>
+									<circle class="st3" cx="24.6" cy="36" r="1.6"/>
+								</g>
+								<path class="st4" d="M48.3,34.3V11.9c0-3.4-2.8-6.2-6.2-6.2H7.4c-3.4,0-6.2,2.8-6.2,6.2v21.4c0,3.4,2.8,6.2,6.2,6.2H18
+									l-1.8,4.5c-0.4,0.9,0.3,1.8,1.2,1.9L31.8,46c1,0,1.6-1,1.2-1.9l-1.9-4.6h5.8"/>
+							</g>
+						</g>
+					</g>
+				</g>
+				<line class="st5" x1="2.3" y1="33.2" x2="47.6" y2="33.2"/>
+				<line class="st5" x1="1.9" y1="33.2" x2="10.1" y2="33.2"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<polyline class="st6" points="10.5,14.6 10.5,10.8 9.5,10.8 				"/>
+				<polyline class="st6" points="19.1,14.6 19.1,10.8 18.1,10.8 				"/>
+				<path class="st6" d="M16.2,11.4V14c-0.4,0.4-0.9,0.7-1.4,0.7s-1.1-0.3-1.4-0.7v-2.5c0.4-0.4,0.9-0.7,1.4-0.7S15.9,11,16.2,11.4z
+					"/>
+				<path class="st6" d="M24.8,11.4V14c-0.4,0.4-0.9,0.7-1.4,0.7c-0.6,0-1.1-0.3-1.4-0.7v-2.5c0.4-0.4,0.9-0.7,1.4-0.7
+					C24,10.8,24.5,11,24.8,11.4z"/>
+				<polyline class="st6" points="27.7,14.6 27.7,10.8 26.8,10.8 				"/>
+			</g>
+			<g>
+				<polyline class="st6" points="31.6,14.6 31.6,10.8 30.6,10.8 				"/>
+				<polyline class="st6" points="40.2,14.6 40.2,10.8 39.3,10.8 				"/>
+				<path class="st6" d="M37.3,11.4V14c-0.4,0.4-0.9,0.7-1.4,0.7c-0.6,0-1.1-0.3-1.4-0.7v-2.5c0.4-0.4,0.9-0.7,1.4-0.7
+					C36.5,10.8,37,11,37.3,11.4z"/>
+			</g>
+		</g>
+		<line class="st6" x1="14.7" y1="22.9" x2="14.7" y2="29.2"/>
+		<line class="st6" x1="14.7" y1="15.7" x2="14.7" y2="19.8"/>
+		<line class="st6" x1="19.1" y1="22.9" x2="19.1" y2="29.2"/>
+		<line class="st6" x1="19.1" y1="15.7" x2="19.1" y2="21.8"/>
+		<line class="st6" x1="23.4" y1="19" x2="23.4" y2="29.2"/>
+		<line class="st6" x1="23.4" y1="15.7" x2="23.4" y2="17.2"/>
+		<line class="st6" x1="10.5" y1="19" x2="10.5" y2="29.2"/>
+		<line class="st6" x1="10.5" y1="15.7" x2="10.5" y2="17.2"/>
+		<line class="st6" x1="27.7" y1="27.3" x2="27.7" y2="29.2"/>
+		<line class="st6" x1="27.7" y1="15.7" x2="27.7" y2="26.3"/>
+		<line class="st6" x1="31.5" y1="22.9" x2="31.5" y2="29.2"/>
+		<line class="st6" x1="31.5" y1="15.7" x2="31.5" y2="21.8"/>
+		<line class="st6" x1="35.8" y1="19" x2="35.8" y2="29.2"/>
+		<line class="st6" x1="35.8" y1="15.7" x2="35.8" y2="17.2"/>
+		<line class="st6" x1="40.1" y1="27.3" x2="40.1" y2="29.2"/>
+		<line class="st6" x1="40.1" y1="15.7" x2="40.1" y2="26.3"/>
+	</g>
+</g>
+</svg>
