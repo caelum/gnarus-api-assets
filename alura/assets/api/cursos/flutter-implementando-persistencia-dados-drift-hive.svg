@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d1d1b;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #444;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-3 {
+        fill: #5aba52;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5, .cls-2, .cls-6 {
+        fill: none;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: #444;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        fill: #319327;
+      }
+
+      .cls-6 {
+        stroke-width: 2.5px;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-4" points="21.2 20.7 26 14 28.4 21.9"/>
+  <polygon class="cls-4" points="29.2 18.6 37 21 30.3 25.8 30.4 34 23.8 29.1 16.1 31.7 18.7 23.9 13.8 17.4 22 17.5 26.7 10.8 29.2 18.6"/>
+  <g>
+    <g>
+      <path class="cls-3" d="M48,20.1c-.2-.8-2.7-7.4-3.2-8l-3-3.5h-.2c0,0-7.5-5.6-7.5-5.6l-7.7-.7c-3.2,0-14.3.3-21.1,10.1l-3.9,10.5h-.2c0,0,3.9,13.3,3.9,13.3.1.4,4.5,5.6,4.8,5.8l5.5,2.9,31.8-11.6c.6-.4,1.7-8.5.7-13.2Z"/>
+      <g>
+        <path class="cls-6" d="M32.5,47c-6.9,2.2-14.8,1.2-21-3.5C1.2,35.8-.8,21.3,6.9,11.1"/>
+        <path class="cls-6" d="M6.7,11.3c2-2.9,4.7-4.7,4.7-4.7l.7-.5C20,.5,31,.3,39.2,6.5c10.2,7.7,12.3,22.2,4.6,32.4"/>
+      </g>
+      <line class="cls-1" x1="16.4" y1="19.1" x2="3.4" y2="19.1"/>
+      <path class="cls-2" d="M2.7,26.8h8.3c1.4,0,2.6,1.2,2.6,2.6v1.9c0,1.4,1.2,2.6,2.6,2.6h4.3"/>
+      <path class="cls-2" d="M25.2,19.7v-5.5c0-1.4-1.2-2.6-2.6-2.6H6.7"/>
+      <path class="cls-2" d="M30.2,2v17.5"/>
+      <path class="cls-2" d="M39.4,7.5v16c0,1.4,1.2,2.6,2.6,2.6h6.6"/>
+      <path class="cls-2" d="M45.5,37.7h-14c-1.4,0-2.6,1-2.6,2.2v6.8"/>
+      <path class="cls-2" d="M8.3,39.5h12c1.4,0,2.6,1.2,2.6,2.6v5"/>
+    </g>
+    <g>
+      <polyline class="cls-5" points="11.1 16.8 16.1 16.8 20.3 32.6 32.8 32.6"/>
+      <line class="cls-5" x1="21.9" y1="19.9" x2="22.8" y2="28.8"/>
+      <line class="cls-5" x1="26.2" y1="19.8" x2="26.3" y2="28.8"/>
+      <line class="cls-5" x1="31.1" y1="19.9" x2="30.2" y2="28.6"/>
+      <polyline class="cls-5" points="16.9 19.6 35.6 19.6 33 28.8 19.3 28.8"/>
+      <line class="cls-5" x1="18.2" y1="24.4" x2="34.1" y2="24.4"/>
+      <circle class="cls-5" cx="21.7" cy="35.1" r="1.6"/>
+      <circle class="cls-5" cx="31.2" cy="35.1" r="1.6"/>
+    </g>
+    <line class="cls-2" x1="32.7" y1="34.1" x2="46.3" y2="34.1"/>
+    <line class="cls-2" x1="22.9" y1="34.1" x2="30" y2="34.1"/>
+    <path class="cls-2" d="M20.5,34.1"/>
+  </g>
+</svg>
