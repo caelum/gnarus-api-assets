@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: .5px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke: #444;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        stroke-width: 2.5px;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        fill: #5aba52;
+      }
+
+      .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        fill: #319327;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-6" points="30.8 11.7 38.6 14.2 31.9 18.9 32.1 27.1 25.5 22.2 17.7 24.9 20.3 17.1 15.4 10.5 23.6 10.6 28.4 3.9 30.8 11.7"/>
+  <g>
+    <g>
+      <path class="cls-5" d="M48.5,12.9v-4.2c0,0-2.9-3.3-2.9-3.3l-24.7-.7c-3.5,0-17.7.2-17.7,3.7l-1.3,20.8,2.6,7.9,14.2,1.2c2.2.1-6.2,7.1-4.1,6.3l5.5,1.2,14.7-5.2-.9-1.6,4.8.2,6.2-1.3,3.2-5.3c.8-.5,1.4-17.6.3-19.8Z"/>
+      <g>
+        <rect class="cls-4" x="2.7" y="5.7" width="45.5" height="32" rx="4.6" ry="4.6"/>
+        <path class="cls-2" d="M27,45.4h-12.5v-.4c0-3,2.4-5.4,5.4-5.4h1v-1.1h-11.4c-4,0-7.2-3.2-7.2-7.2V12c0-4,3.2-7.2,7.2-7.2h32c4,0,7.2,3.2,7.2,7.2v19.4c0,4-3.2,7.2-7.2,7.2h-10.6v1.1c1.2,0,2.3.4,3.3,1.1"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <g>
+            <circle class="cls-3" cx="35.7" cy="13.1" r="2.1" transform="translate(-2.1 8.6) rotate(-13.3)"/>
+            <polyline class="cls-1" points="35.7 15.2 35.7 19.9 30.9 23.1 30.9 29.5"/>
+          </g>
+          <g>
+            <circle class="cls-3" cx="15.2" cy="13.1" r="2.1"/>
+            <polyline class="cls-1" points="15.2 15.2 15.2 19.9 20 23.1 20 29.5"/>
+          </g>
+        </g>
+        <line class="cls-1" x1="25.5" y1="22.6" x2="25.5" y2="29.4"/>
+        <line class="cls-1" x1="25.5" y1="12.9" x2="25.5" y2="17.9"/>
+        <circle class="cls-3" cx="25.5" cy="20.2" r="2.1"/>
+        <g>
+          <line class="cls-1" x1="20.3" y1="14.6" x2="20.3" y2="18.4"/>
+          <line class="cls-1" x1="30.6" y1="14.6" x2="30.6" y2="18.4"/>
+        </g>
+      </g>
+      <circle class="cls-3" cx="25.5" cy="10.8" r="2.1" transform="translate(9.1 33.1) rotate(-76.7)"/>
+      <circle class="cls-3" cx="25.6" cy="34.9" r="1.3"/>
+    </g>
+    <line class="cls-3" x1="3" y1="31.7" x2="48.1" y2="31.7"/>
+  </g>
+</svg>
