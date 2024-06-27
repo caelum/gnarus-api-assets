@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_3" data-name="Camada 3" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-5 {
+        stroke: #494949;
+      }
+
+      .cls-1, .cls-2, .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-7 {
+        stroke-width: .5px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4, .cls-6, .cls-7 {
+        stroke: #444;
+      }
+
+      .cls-8 {
+        fill: #444;
+      }
+
+      .cls-8, .cls-9 {
+        stroke-width: 0px;
+      }
+
+      .cls-9 {
+        fill: #46b8b0;
+      }
+
+      .cls-6 {
+        stroke-width: 2.5px;
+      }
+    </style>
+  </defs>
+  <path class="cls-9" d="M47.8,20.3c-.2-.8-2.7-7.5-3.2-8.1l-3-3.5h-.2c0,0-7.6-5.7-7.6-5.7l-7.8-.7c-3.2,0-12.8-.7-21.3,11.5l-2.9,7.9.5,2,1.8,11.5c.1.4,4.7,7,5.1,7.2l5.6,3,32.2-11.7c.7-.4,1.7-8.6.7-13.4Z"/>
+  <path class="cls-6" d="M27.6,47.9c-12.6,1.6-24.1-7.4-25.7-20.1S9.4,3.7,22,2.1c12.6-1.6,24.1,7.4,25.7,20.1.6,5.1-.5,10-2.8,14.1"/>
+  <circle class="cls-5" cx="15.2" cy="35.2" r="3.1"/>
+  <circle class="cls-3" cx="35.7" cy="13.9" r="3.1"/>
+  <path class="cls-2" d="M30.8,32.5h5.7v5.7h-5.7v-5.7Z"/>
+  <path class="cls-1" d="M12.3,11h5.7v5.7h-5.7v-5.7Z"/>
+  <polygon class="cls-3" points="26 11.2 22.9 11.2 21.3 13.8 22.9 16.5 26 16.5 27.5 13.8 26 11.2"/>
+  <polygon class="cls-5" points="26 32.5 22.9 32.5 21.3 35.2 22.9 37.9 26 37.9 27.5 35.2 26 32.5"/>
+  <path class="cls-4" d="M15.5,27.3"/>
+  <g>
+    <line class="cls-4" x1="24.6" y1="19.8" x2="24.5" y2="29.5"/>
+    <polygon class="cls-8" points="23.4 29.2 24.5 31.2 25.6 29.2 23.4 29.2"/>
+  </g>
+  <g>
+    <polyline class="cls-4" points="15.2 19.6 15.2 23 33.7 23 33.7 29.8"/>
+    <polygon class="cls-8" points="32.6 29.4 33.7 31.4 34.8 29.4 32.6 29.4"/>
+  </g>
+  <g>
+    <polyline class="cls-4" points="35.9 19.6 35.7 25.1 15.2 25.2 15.2 29.3"/>
+    <polygon class="cls-8" points="14 29 15.2 30.9 16.3 29 14 29"/>
+  </g>
+  <path class="cls-7" d="M8.8,43.9"/>
+</svg>
