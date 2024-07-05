@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f9f941;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        stroke-width: .5px;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+        stroke: #444;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        fill: #d1bd00;
+      }
+
+      .cls-5 {
+        stroke-width: 2.5px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-2" points="24.8 16.8 32.7 19.2 26 24 26.1 32.2 19.5 27.3 11.7 29.9 14.4 22.1 9.5 15.6 17.7 15.7 22.4 9 24.8 16.8"/>
+  <g>
+    <path class="cls-1" d="M45.6,3.9H4.5c-1.4,0-1.4,3.8-1.4,5.2l-.2,12.9-.5,10.2,1.2,11.8,12.4.6,32.1-11.4V6.5h0c0-1.4-1.1-2.6-2.5-2.6Z"/>
+    <path class="cls-5" d="M32.7,45.3H5.7c-1.9,0-3.4-1.6-3.4-3.5V6.9c0-1.9,1.5-3.5,3.4-3.5h39c1.9,0,3.4,1.6,3.4,3.5v28.5"/>
+    <g id="cryptography_2" data-name="cryptography 2">
+      <g id="g_145" data-name="g 145">
+        <g id="g_146" data-name="g 146">
+          <g id="g_147" data-name="g 147">
+            <g id="g_148" data-name="g 148">
+              <path id="path_139" data-name="path 139" class="cls-4" d="M28.5,22.1v-1.9c0-1.8-1.5-3.2-3.2-3.2-1.8,0-3.2,1.5-3.2,3.2v1.9h6.5Z"/>
+            </g>
+            <path id="path_140" data-name="path 140" class="cls-4" d="M30.7,30.3h-11v-8.1h11v8.1Z"/>
+            <g id="g_149" data-name="g 149">
+              <path id="path_141" data-name="path 141" class="cls-3" d="M25.2,25.1v2.3"/>
+            </g>
+            <g id="g_150" data-name="g 150">
+              <path id="path_142" data-name="path 142" class="cls-4" d="M36.8,24.3c0,6.4-5.2,11.6-11.6,11.6s-11.6-5.2-11.6-11.6,5.2-11.6,11.6-11.6,11.6,5.2,11.6,11.6Z"/>
+            </g>
+            <g id="g_151" data-name="g 151">
+              <path id="path_143" data-name="path 143" class="cls-4" d="M17.1,16.1l-4.7-4.7"/>
+            </g>
+            <g id="g_152" data-name="g 152">
+              <path id="path_144" data-name="path 144" class="cls-3" d="M21,13.5l-3.5-3.5v-2.7"/>
+            </g>
+            <g id="g_153" data-name="g 153">
+              <path id="path_145" data-name="path 145" class="cls-3" d="M14.5,20.1l-3.5-3.5h-2.7"/>
+            </g>
+            <g id="g_154" data-name="g 154">
+              <path id="path_146" data-name="path 146" class="cls-4" d="M8.4,7.5c1.1-1.1,2.9-1.1,4,0,1.1,1.1,1.1,2.9,0,4-1.1,1.1-2.9,1.1-4,0s-1.1-2.9,0-4Z"/>
+            </g>
+            <g id="g_155" data-name="g 155">
+              <path id="path_147" data-name="path 147" class="cls-4" d="M33.4,32.5l4.7,4.7"/>
+            </g>
+            <g id="g_156" data-name="g 156">
+              <path id="path_148" data-name="path 148" class="cls-3" d="M29.5,35.1l3.5,3.5v2.7"/>
+            </g>
+            <g id="g_157" data-name="g 157">
+              <path id="path_149" data-name="path 149" class="cls-3" d="M36,28.6l3.5,3.5h2.7"/>
+            </g>
+            <g id="g_158" data-name="g 158">
+              <path id="path_150" data-name="path 150" class="cls-4" d="M42.1,41.1c-1.1,1.1-2.9,1.1-4,0s-1.1-2.9,0-4c1.1-1.1,2.9-1.1,4,0,1.1,1.1,1.1,2.9,0,4Z"/>
+            </g>
+            <g id="g_159" data-name="g 159">
+              <path id="path_151" data-name="path 151" class="cls-4" d="M17.1,32.5l-4.7,4.7"/>
+            </g>
+            <g id="g_160" data-name="g 160">
+              <path id="path_152" data-name="path 152" class="cls-3" d="M14.5,28.6l-3.5,3.5h-2.7"/>
+            </g>
+            <g id="g_161" data-name="g 161">
+              <path id="path_153" data-name="path 153" class="cls-3" d="M21,35.1l-3.5,3.5v2.7"/>
+            </g>
+            <g id="g_162" data-name="g 162">
+              <path id="path_154" data-name="path 154" class="cls-4" d="M8.4,41.1c-1.1-1.1-1.1-2.9,0-4,1.1-1.1,2.9-1.1,4,0,1.1,1.1,1.1,2.9,0,4-1.1,1.1-2.9,1.1-4,0Z"/>
+            </g>
+            <g id="g_163" data-name="g 163">
+              <path id="path_155" data-name="path 155" class="cls-4" d="M33.4,16.1l4.7-4.7"/>
+            </g>
+            <g id="g_164" data-name="g 164">
+              <path id="path_156" data-name="path 156" class="cls-3" d="M36,20.1l3.5-3.5h2.7"/>
+            </g>
+            <g id="g_165" data-name="g 165">
+              <path id="path_157" data-name="path 157" class="cls-3" d="M29.5,13.5l3.5-3.5v-2.7"/>
+            </g>
+            <g id="g_166" data-name="g 166">
+              <path id="path_158" data-name="path 158" class="cls-4" d="M42.1,7.5c1.1,1.1,1.1,2.9,0,4-1.1,1.1-2.9,1.1-4,0-1.1-1.1-1.1-2.9,0-4,1.1-1.1,2.9-1.1,4,0Z"/>
+            </g>
+            <g id="g_167" data-name="g 167">
+              <path id="path_159" data-name="path 159" class="cls-4" d="M25.2,12.7V4"/>
+            </g>
+            <g id="g_168" data-name="g 168">
+              <path id="path_160" data-name="path 160" class="cls-4" d="M25.2,45.1v-9.2"/>
+            </g>
+            <g id="g_169" data-name="g 169">
+              <path id="path_161" data-name="path 161" class="cls-4" d="M36.8,24.3h11.3"/>
+            </g>
+            <g id="g_170" data-name="g 170">
+              <path id="path_162" data-name="path 162" class="cls-4" d="M2.7,24.3h10.9"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
