@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-4 {
+        stroke: #494949;
+        stroke-width: 2.5px;
+      }
+
+      .cls-5 {
+        fill: #ff6b6b;
+      }
+
+      .cls-6 {
+        fill: #494949;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #444;
+      }
+
+      .cls-3 {
+        fill: #444;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <g>
+        <g>
+          <polygon class="cls-5" points="43.8 13.8 43.5 13.9 42.7 11.1 35.6 5.8 23.6 3.1 9.3 7.9 3.6 19.6 2.8 31.5 2.4 31.7 2.7 32.2 2.7 32.9 3 32.8 9.6 44 10.5 44.7 46.9 31.6 46.9 31.2 47.6 21.5 43.8 13.8"/>
+          <g>
+            <path class="cls-4" d="M44.7,37c3.1-5.5,4.1-12.2,1.9-18.7C42.5,6.4,29.5,0,17.6,3.9,5.7,8-.7,20.9,3.2,32.9c2.5,7.3,8.3,12.6,15.2,14.7"/>
+            <circle class="cls-1" cx="45.2" cy="36" r="1.9"/>
+          </g>
+          <path class="cls-6" d="M26.3,18.3h-3.4l-5,12.9h3.1l.8-2.2h4.7l-.9-2.4h-3.1l2-5.6,3.6,10.2h3.1l-4.9-12.9Z"/>
+          <path class="cls-2" d="M11.2,18.3l13.4-7.8,13.3,7.8v15.4l-13.4,7.8-13.3-7.8v-15.4Z"/>
+          <circle class="cls-3" cx="24.5" cy="10.5" r="2.7"/>
+          <circle class="cls-3" cx="37.9" cy="18.3" r="2.7"/>
+          <circle class="cls-3" cx="38.1" cy="33.7" r="2.7"/>
+          <circle class="cls-3" cx="24.6" cy="41.5" r="2.7"/>
+          <path class="cls-2" d="M24.5,10.5l-13.3,23.2h26.9l-13.6-23.2Z"/>
+        </g>
+        <circle class="cls-3" cx="11.2" cy="18.3" r="2.7"/>
+        <circle class="cls-3" cx="11.2" cy="33.7" r="2.7"/>
+      </g>
+    </g>
+  </g>
+</svg>
