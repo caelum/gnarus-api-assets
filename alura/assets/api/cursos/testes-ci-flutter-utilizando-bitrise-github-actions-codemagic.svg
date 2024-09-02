@@ -1,1 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path fill="#46b8b0" d="M47.8 26.2l-.5-4L30.2 4.6l-4.4-1.8C21.7 2.8 8 15.7 8 18.3l-4.3 4-.2 5.9 14.2 14.5 24.8-8.8c.6-.3 6.2-6 5.4-7.6z"/><path fill="none" stroke="#444" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M29.8 45.5c-2.4 2.4-6.3 2.4-8.7 0L4.8 29.3c-2.4-2.4-2.4-6.3 0-8.7L21 4.4c2.4-2.4 6.3-2.4 8.7 0l16.2 16.2c2.4 2.4 2.4 6.3 0 8.7l-7.4 7.4"/><path fill="none" stroke="#444" stroke-miterlimit="10" stroke-width=".5" d="M45.8 29H17.2c-1 0-1.9-.8-1.9-1.9V10.4"/><g fill="none" stroke="#444"><path stroke-linecap="round" stroke-linejoin="round" d="M13.6 37.9v-26c0-1.4 1.1-2.5 2.5-2.5H30c1.4 0 2.5 1.1 2.5 2.5v27.7c0 1.4-1.1 2.5-2.5 2.5H18.6"/><path stroke-miterlimit="10" stroke-width=".5" d="M19.5 9.6h7.3c.3 0 .5.2.5.5h0c0 1.2-1 2.2-2.2 2.2h-4c-1.2 0-2.2-1-2.2-2.2h0c0-.3.2-.5.5-.5z"/><circle cx="22.7" cy="38.6" r="1.6" stroke-miterlimit="10" stroke-width=".5"/></g><path fill="none" stroke="#444" stroke-miterlimit="10" stroke-width=".5" d="M5.9 18.6h33.8c1.2 0 2.2 1 2.2 2.2v11.3"/><path fill="#00dffc" stroke="#444" stroke-linecap="round" stroke-linejoin="round" d="M22.7 16.9V32m-2.6-13.7v11.2m-2.6-9.3v8.6m7.7-10.5v11.2m2.6-9.3v8.6m1.8-6.7v4.7M15.3 22v4.8"/><path fill="none" stroke="#444" stroke-miterlimit="10" stroke-width=".5" d="M5.9 19.3l4.1 4.1c1.5 1.5 1.5 3.9 0 5.3l-3.4 3.4"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 2.5px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke: #444;
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-4 {
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-width: .5px;
+      }
+
+      .cls-5 {
+        fill: #e589ef;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Camada_1">
+      <g>
+        <path class="cls-5" d="M44.7,12.5l-5.6-3.6-7.7-4.4-6-2.8C22.2,1.7,3.9,10.6,3.9,13.8l-.5,7.8.5,15.1,11.5,7.6,31-11c.9-.5-.7-18.8-1.7-20.8Z"/>
+        <path class="cls-1" d="M30,46.6l-2.2,1.3c-1.7,1-3.8,1-5.5,0l-15.6-9c-1.6-1-2.7-2.8-2.7-4.8v-18c0-2,1-3.8,2.7-4.7L22.3,2.4c1.7-1,3.8-1,5.5,0l15.6,9c1.7,1,2.7,2.8,2.7,4.7v18c0,2-1,3.8-2.7,4.7l-2.5,1.4"/>
+        <path class="cls-3" d="M25.5,28.6l-1.7-2.3c-.6-.9-1.7-1.4-2.8-1.4h-8.2c-.9,0-1.7.5-2.1,1.2l-3,4.9c-1,1.6.2,3.7,2.1,3.7h7.8c.9,0,1.7-.8,1.7-1.7s-.8-1.7-1.7-1.7h-4.5M22.7,30.7v3.8M17.7,34.6h23.1"/>
+        <path class="cls-2" d="M23.6,34.6l3.2-8.6c.1-.2.3-.4.5-.4h12.7c.4,0,.7.4.5.8l-3,8.2"/>
+        <circle class="cls-3" cx="17.4" cy="19.3" r="3.7"/>
+        <path class="cls-4" d="M30,28.8l-2,1.5,2,1.5M34.4,31.8l2-1.5-2-1.5M32.9,28.3l-1.6,4"/>
+      </g>
+    </g>
+  </g>
+</svg>
