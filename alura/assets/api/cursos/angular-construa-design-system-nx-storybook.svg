@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#8256D8;}
+	.st1{fill:#A475EF;}
+	.st2{fill:none;stroke:#444444;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#444444;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#444444;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<polygon class="st0" points="28.9,16.7 36.7,19.2 30,23.9 30.1,32.1 23.6,27.2 15.8,29.9 18.4,22.1 13.5,15.5 21.7,15.6 26.5,8.9 
+	"/>
+<g>
+	<g>
+		<path class="st1" d="M48.2,22.1c0.3-4.6,0-15.7-0.5-16.2l-7-0.5L36,5.3l-7.8,0.5L16,5.4c-2.9,0-3.2,0-6.3,0L2.5,5.8L1.6,22.7
+			L2,35.8c0,4.6,17.5,2.4,17.7,2.6l-0.7,5.2l28.8-10.5C48.4,32.8,48,26.5,48.2,22.1z"/>
+	</g>
+</g>
+<line class="st2" x1="48.2" y1="30.3" x2="2" y2="30.3"/>
+<rect x="8.4" y="13.5" class="st3" width="33.4" height="6.3"/>
+<g>
+	<path class="st3" d="M16.5,26.5H9c-0.3,0-0.6-0.3-0.6-0.6v-3c0-0.3,0.3-0.6,0.6-0.6h7.5c0.3,0,0.6,0.3,0.6,0.6v3
+		C17.1,26.2,16.8,26.5,16.5,26.5z"/>
+	<path class="st3" d="M41.3,26.5h-7.5c-0.3,0-0.6-0.3-0.6-0.6v-3c0-0.3,0.3-0.6,0.6-0.6h7.5c0.3,0,0.6,0.3,0.6,0.6v3
+		C41.8,26.2,41.6,26.5,41.3,26.5z"/>
+	<path class="st3" d="M28.9,26.5h-7.5c-0.3,0-0.6-0.3-0.6-0.6v-3c0-0.3,0.3-0.6,0.6-0.6h7.5c0.3,0,0.6,0.3,0.6,0.6v3
+		C29.5,26.2,29.2,26.5,28.9,26.5z"/>
+</g>
+<g>
+	<g>
+		<line class="st3" x1="8.4" y1="10.5" x2="18.5" y2="10.5"/>
+		<line class="st3" x1="23.1" y1="10.6" x2="25.7" y2="10.6"/>
+		<line class="st3" x1="28.2" y1="10.5" x2="31.3" y2="10.5"/>
+		<line class="st3" x1="33.5" y1="10.5" x2="36.6" y2="10.5"/>
+	</g>
+	<line class="st3" x1="38.9" y1="10.5" x2="41.8" y2="10.5"/>
+</g>
+<path class="st4" d="M48.2,32V8c0-1.4-1.2-2.6-2.6-2.6H4.6C3.2,5.4,2,6.6,2,8v27.8c0,1.4,1.2,2.6,2.6,2.6h15.9"/>
+<line class="st4" x1="16" y1="44.2" x2="34" y2="44.2"/>
+<g>
+	<line class="st4" x1="20.5" y1="38.4" x2="19.5" y2="44"/>
+	<polyline class="st4" points="30.8,44 29.8,38.4 37.5,38.4 	"/>
+</g>
+<line class="st2" x1="17.3" y1="37.7" x2="32.7" y2="37.7"/>
+</svg>
