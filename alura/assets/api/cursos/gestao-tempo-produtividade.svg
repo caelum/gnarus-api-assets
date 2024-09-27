@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #e5e5e5;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        fill: #7f4abf;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-2" d="M25,48.2h16.9c1,0,1.9-.2,2.7-.7,1.7-.9,2.9-2.8,2.9-4.9V8.9c0-3.1-2.5-5.6-5.6-5.6H8.1c-3.1,0-5.6,2.5-5.6,5.6v33.7c0,3.1,2.5,5.6,5.6,5.6h16.8Z"/>
+    </clipPath>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="Camada_1">
+      <path class="cls-4" d="M25,48.2h16.9c1,0,1.9-.2,2.7-.7,1.7-.9,2.9-2.8,2.9-4.9V8.9c0-3.1-2.5-5.6-5.6-5.6H8.1c-3.1,0-5.6,2.5-5.6,5.6v33.7c0,3.1,2.5,5.6,5.6,5.6h16.8Z"/>
+      <g class="cls-5">
+        <g>
+          <circle class="cls-1" cx="32.3" cy="25.8" r="19.3"/>
+          <line class="cls-3" x1="32.3" y1="25.8" x2="20.8" y2="16.1"/>
+          <line class="cls-3" x1="32.3" y1="34" x2="32.3" y2="25.8"/>
+          <line class="cls-3" x1="32.3" y1="8.9" x2="32.3" y2="6.5"/>
+          <line class="cls-3" x1="15.4" y1="25.8" x2="13.1" y2="25.8"/>
+          <line class="cls-3" x1="32.3" y1="45.1" x2="32.3" y2="42.8"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
