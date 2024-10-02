@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #444;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        stroke-width: 2.5px;
+      }
+
+      .cls-4 {
+        fill: #e589ef;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="Camada_1">
+      <g>
+        <g>
+          <g>
+            <path class="cls-4" d="M34.8,2H13.8c-1.6,0-2.9,5.3-2.9,6.9l.4,14.9.2,10.3.7,13.1,1.3.9,25.2-8.9-.4-35.3"/>
+            <g>
+              <path class="cls-3" d="M38,5.1c0-3-4.1-3.2-4.1-3.2H14.9c-1.9,0-3.5,1.6-3.5,3.5v39.1c0,1.9,1.6,3.5,3.5,3.5h16.1"/>
+              <polygon class="cls-3" points="38 22 38 5.1 38 41.9 38 22"/>
+            </g>
+            <path class="cls-1" d="M20.9,1.9h7c1.3,0,2.4,1.1,2.4,2.4v.9c0,.3-.3.6-.6.6h-10.7c-.3,0-.6-.3-.6-.6v-.9c0-1.3,1.1-2.4,2.4-2.4Z" transform="translate(48.9 7.7) rotate(180)"/>
+          </g>
+          <circle class="cls-1" cx="25.1" cy="42.9" r="2.3"/>
+        </g>
+        <g>
+          <path class="cls-1" d="M24.7,25c-1.3,0-2.3-1-2.3-2.3s1-2.3,2.3-2.3,2.3,1,2.3,2.3-1,2.3-2.3,2.3Z"/>
+          <path class="cls-1" d="M33.1,24.9c0-4.7-3.8-8.5-8.5-8.5s-8.5,3.8-8.5,8.5,1.4,5.3,3.5,6.8c0,0,0,0,.1,0,1.4,1,3.1,1.5,4.9,1.5s3.5-.6,4.9-1.6c0,0,0,0,0,0,2.1-1.5,3.5-4,3.5-6.8ZM20.6,30.1s0,0,0,0c0-2.3,1.8-4.1,4.1-4.1s4.1,1.8,4.1,4.1,0,0,0,0c-1.2.8-2.6,1.2-4.1,1.2s-2.9-.5-4.1-1.2Z"/>
+          <path class="cls-2" d="M17.3,35.6h-2.5c-.3,0-.5-.2-.5-.5v-2.5"/>
+          <path class="cls-2" d="M32,35.6h2.5c.3,0,.5-.2.5-.5v-2.5"/>
+          <path class="cls-2" d="M17.3,14.3h-2.5c-.3,0-.5.2-.5.5v2.5"/>
+          <path class="cls-2" d="M32,14.3h2.5c.3,0,.5.2.5.5v2.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
