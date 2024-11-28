@@ -22,7 +22,7 @@
       }
 
       .st2 {
-        stroke: #454444;
+        stroke: #444444;
         stroke-miterlimit: 10;
       }
 
