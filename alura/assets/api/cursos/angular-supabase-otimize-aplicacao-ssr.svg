@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_3" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 50 50">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        fill: none;
+        stroke: #444;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .st1 {
+        stroke-width: 2.5px;
+      }
+
+      .st3 {
+        fill: #444;
+      }
+
+      .st4 {
+        fill: #fc9d9a;
+      }
+
+      .st2 {
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <path class="st4" d="M43.6,12.9l-5.6-3.6-7.7-4.4-6-2.8C21.2,2,2.9,11,2.9,14.2l-.5,7.8.5,15.1,11.5,7.6,31-11c.7-.4-.8-18.7-1.8-20.7Z"/>
+  <path class="st1" d="M28.9,46.8l-2.2,1.3c-1.7,1-3.8,1-5.5,0l-15.6-9c-1.7-1-2.7-2.8-2.7-4.7v-18c0-2,1-3.8,2.7-4.7L21.3,2.6c1.7-1,3.8-1,5.5,0l15.6,9c1.7,1,2.7,2.8,2.7,4.7v18c0,2-1,3.8-2.7,4.7l-2.5,1.4"/>
+  <g>
+    <path class="st0" d="M7.8,21.6c0-2.9,2.4-5.3,5.3-5.3s1.6.2,2.3.5c.7-1.4,2.1-2.3,3.8-2.3s1.7.3,2.4.8c.9-2.3,3.1-3.9,5.7-3.9s5.6,2.3,6,5.2c.5-.2,1.1-.3,1.6-.3,2.9,0,5.3,2.4,5.3,5.3s-2.4,5.3-5.3,5.3H11.4s-3.5-.8-3.6-5.3Z"/>
+    <rect class="st0" x="11.7" y="32.4" width="6.5" height="6.5"/>
+    <rect class="st0" x="32.1" y="33" width="5.3" height="5.3" transform="translate(35.4 -14.1) rotate(45)"/>
+    <rect class="st0" x="21.6" y="32.1" width="7.1" height="7.1" rx="3.6" ry="3.6" transform="translate(32.6 -7.3) rotate(45)"/>
+    <polyline class="st2" points="15.1 30.2 15.1 22.3 34.7 22.3 34.7 30.1"/>
+    <line class="st2" x1="24.7" y1="29.9" x2="24.7" y2="22.3"/>
+    <circle class="st3" cx="24.6" cy="22.4" r="1.5"/>
+  </g>
+</svg>
