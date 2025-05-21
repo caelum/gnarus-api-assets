@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_3" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 50 50">
+  <!-- Generator: Adobe Illustrator 29.5.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 141)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .st0, .st1, .st3 {
+        fill: none;
+      }
+
+      .st0, .st2 {
+        stroke-width: 2.5px;
+      }
+
+      .st0, .st2, .st3 {
+        stroke: #444;
+      }
+
+      .st1 {
+        stroke: #464646;
+      }
+
+      .st4 {
+        fill: #04ad49;
+      }
+
+      .st5 {
+        fill: #444;
+      }
+
+      .st2, .st6 {
+        fill: #22dd6d;
+      }
+
+      .st3 {
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <polygon class="st4" points="27.27 22.85 33.02 24.64 28.1 28.12 28.18 34.14 23.35 30.54 17.65 32.47 19.58 26.77 15.98 21.94 22 22.02 25.48 17.1 27.27 22.85"/>
+  <g>
+    <path class="st6" d="M25.58,31.26c-.03-4.44-.04-8.86-.08-13.29h18.45c3.3.22,4.96,3.93,3.29,7.07l-11.95,12.76s-7.45,2.79-9.72,3.29c.02-4.84.04-4.99,0-9.83h.01Z"/>
+    <path class="st1" d="M34.57,38.58l7.25-7.79h-5.42l-4.96,5.04,4.58,4.5h5.8M41.82,40.33l-7.25-7.4M30.14,34.07l-3.05-2.9,9.77-9.85h5.95s-12.67,12.75-12.67,12.75Z"/>
+    <path class="st2" d="M24.42,18.2c.03,4.44.04,8.86.08,13.29H6.05c-3.3-.22-5.09-3.76-3.14-6.48L20.68,2.65c1.17-1.48,3.39-.8,3.65,1.03-.02,4.84.05,9.68.09,14.52Z"/>
+    <path class="st0" d="M31.07,43.96l-2.56,3.24c-.94,1.35-2.36.88-2.36.88-1.35.47-1.65-2.43-1.65-2.43v-27.85h17.36c4.04-.34,5.06,2.16,5.06,2.16,1.75,2.43-.4,4.38-.4,4.38l-3.75,4.48"/>
+  </g>
+  <g>
+    <circle class="st5" cx="9.97" cy="20.29" r=".57"/>
+    <circle class="st5" cx="12.67" cy="20.29" r=".57"/>
+    <circle class="st5" cx="15.37" cy="20.29" r=".57"/>
+    <circle class="st5" cx="18.07" cy="20.29" r=".57"/>
+    <circle class="st5" cx="20.77" cy="20.29" r=".57"/>
+    <circle class="st5" cx="9.97" cy="22.68" r=".57"/>
+    <circle class="st5" cx="12.67" cy="22.68" r=".57"/>
+    <circle class="st5" cx="15.37" cy="22.68" r=".57"/>
+    <circle class="st5" cx="18.07" cy="22.68" r=".57"/>
+    <circle class="st5" cx="20.77" cy="22.68" r=".57"/>
+    <circle class="st5" cx="15.37" cy="25.05" r=".57"/>
+    <circle class="st5" cx="18.07" cy="25.05" r=".57"/>
+    <circle class="st5" cx="20.77" cy="25.05" r=".57"/>
+    <circle class="st5" cx="18.07" cy="27.44" r=".57"/>
+    <circle class="st5" cx="20.77" cy="27.44" r=".57"/>
+    <path class="st3" d="M9.86,20.29h2.8l2.7,2.4h2.7l2.7,2.36"/>
+    <path class="st3" d="M9.97,22.68h2.7l2.7-2.4h5.4M15.3,25.05h2.77l2.7-2.36M17.97,27.44h2.8"/>
+  </g>
+</svg>
