@@ -1,1 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path fill="#00dffc" d="M47.7 25.7l-.5-4L30.1 4.1l-4.4-1.8c-4.1 0-17.8 12.9-17.8 15.5l-4.3 4-.2 5.9 14.2 14.5 24.8-8.8c.6-.3 6.2-6 5.4-7.6z"/><path fill="none" stroke="#444" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M29.7 45.1c-2.4 2.4-6.3 2.4-8.7 0L4.7 28.9c-2.4-2.4-2.4-6.3 0-8.7L20.9 3.9c2.4-2.4 6.3-2.4 8.7 0l16.2 16.2c2.4 2.4 2.4 6.3 0 8.7l-7.4 7.4"/><path fill="none" stroke="#444" stroke-linecap="round" stroke-linejoin="round" d="M28.8 32.4c0-1.2 1-2.1 2.1-2.1s2.1 1 2.1 2.1-1 2.1-2.1 2.1-2.1-1-2.1-2.1zm2.1 8.8v-6.8M23.7 46V27.5M9.1 33.3v-9.7m7.4 17.6V30.3m5-5.1c0-1.2 1-2.2 2.2-2.2s2.2 1 2.2 2.2-1 2.2-2.2 2.2-2.2-1-2.2-2.2zm-7.1 3.2c0-1.1.9-2 2-2s2 .9 2 2-.9 2-2 2-2-.9-2-2zm-7.2-7c0-1.1.9-2 2-2s2 .9 2 2-.9 2-2 2-2-.9-2-2zm18.3 5.2l4.1 4.2m-11.1-3.2l3-1.7M10.7 23l4.1 4.1m11-7.2l-3.1.8c-1.2.3-2.1-1.2-1.2-2.1l2.2-2.3m7.8 4.5l-.9 3.1c-.3 1.2-2.1 1.2-2.4 0l-.9-3.1m7.8-4.5l2.2 2.3c.9.9 0 2.4-1.2 2.1l-3.1-.8m3.9-7.2l-1.7 1.8M33 10.9l2.2-.8m-7.9-.1l.9-3.1c.3-1.2 2.1-1.2 2.4 0l.9 3.1m-7.8 4.5l-2.2-2.3c-.9-.9 0-2.4 1.2-2.1l3.1.8"/><path fill="none" stroke="#444" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" d="M15.8 10.2l18.9 18.9c1.4 1.4 3.6 1.4 4.9 0l7.1-7.1"/><path fill="none" stroke="#444" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" d="M27.5 2.8l-14.3 14c-.5.5-1.3.5-1.8 0l-2-1.9m8.7 27l25-25.1"/><circle cx="29.5" cy="15.4" r="2.8" fill="none" stroke="#444" stroke-miterlimit="10" stroke-width=".5"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#35D3C3;}
+	.st1{fill:#7DF4EB;}
+	.st2{fill:none;stroke:#444444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#444444;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#444444;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<polygon class="st0" points="30.1,24.5 37.9,27 31.2,31.7 31.4,39.9 24.8,35 17,37.6 19.6,29.9 14.7,23.3 22.9,23.4 27.7,16.7 "/>
+<path class="st1" d="M44.5,29.7l3.7-2.9l0-7.2L41.9,8.9L41,2L10.4,1.9L9.1,9c-1.7,3.1-8.5,9.8-5.9,17.5l3.1,3.7l0.4,17.7l7.3,0.7
+	l31-11C44.5,35,44.8,32.7,44.5,29.7z"/>
+<path class="st2" d="M3,18.8v4.7v0c0,2.8,2,5.3,4.8,5.7c3.5,0.5,6.5-2.2,6.5-5.6l0,0l0,0c0.1,3.2,2.8,5.8,6.1,5.5
+	c2.9-0.3,5-2.7,5.1-5.5c0.1,3.2,2.8,5.8,6.1,5.5c2.9-0.3,5-2.7,5.1-5.5c0,3.3,2.8,5.9,6.1,5.6c2.9-0.3,5.1-2.8,5.1-5.7v-4.7"/>
+<polyline class="st3" points="23,46.8 23,33.7 12.1,33.7 12.1,48 "/>
+<line class="st2" x1="3" y1="19.6" x2="48.1" y2="19.6"/>
+<line class="st2" x1="14.3" y1="19.6" x2="14.3" y2="24.4"/>
+<line class="st2" x1="25.6" y1="19.6" x2="25.6" y2="24.4"/>
+<line class="st2" x1="36.9" y1="19.6" x2="36.9" y2="24.4"/>
+<path class="st4" d="M28.7,48.3H6.7V29.8C3,28.3,3,24.1,3,24.1v-4.5L9.1,8.9l0-3.3c0-2.1,1.7-3.9,3.9-3.9h25.2
+	c2.1,0,3.9,1.7,3.9,3.9l0,3.3l6.1,10.6v4.6c0,0,0.1,4.4-3.7,5.6v9.5"/>
+<g>
+	<polyline class="st2" points="30.4,37.2 26.3,39.3 30.4,41.4 	"/>
+	<polyline class="st2" points="35.8,41.4 39.9,39.4 35.8,37.3 	"/>
+	<line class="st2" x1="34.2" y1="34.8" x2="32" y2="43.1"/>
+</g>
+<line class="st3" x1="9.1" y1="9" x2="41.8" y2="9"/>
+</svg>
