@@ -75,7 +75,7 @@ function geradorDeGeraProxima (array, tipo, url) {
 }
 
 // categorias
-if (["alura", "alurastart", "musicdot", "aluralingua"].indexOf(env) >= 0) {
+if (["alura", "alurastart", "musicdot", "aluralingua", "expandalura" ].indexOf(env) >= 0) {
   var urlCategoria = 'https://www.'+env+'.com.br/_share-img-categoria?slug=';
   var apiCategorias = 'https://cursos.'+env+'.com.br/api/categorias';
   var categorias = collectSlugs(apiCategorias, 'categorias');
@@ -84,7 +84,7 @@ if (["alura", "alurastart", "musicdot", "aluralingua"].indexOf(env) >= 0) {
 }
 
 // cursos
-if (["alura", "alurastart", "musicdot", "aluralingua"].indexOf(env) >= 0) {
+if (["alura", "alurastart", "musicdot", "aluralingua", "expandalura"].indexOf(env) >= 0) {
   var urlCurso = 'https://www.'+env+'.com.br/_share-img-curso?slug=';
   var apiCursos = 'https://cursos.'+env+'.com.br/api/cursos';
   var cursos = collectSlugs(apiCursos, 'cursos');

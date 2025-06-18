@@ -5,6 +5,8 @@ php geradorDeCores.php -i alura
 #php geradorDeCores.php -i musicdot
 #./generate-png-circleci.sh alurastart
 #php geradorDeCores.php -i alurastart
+#./generate-png-circleci.sh expandalura
+php geradorDeCores.php -i expandalura
 ./generate-png-circleci.sh aluralingua
 php geradorDeCores.php -i aluralingua
 
