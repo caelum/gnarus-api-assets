@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" version="1.1" viewBox="0 0 50 50"><defs><style>.st0,.st1{stroke-width:.6px;fill:none;stroke:#444;stroke-linecap:round;stroke-linejoin:round}.st1{stroke-width:1.1px}</style></defs><path fill="#8256d8" d="M24.2 16.9l8.7-3.1-2.8 8.8 5.7 7.3h-9.2l-5.2 7.7-2.9-8.8-8.9-2.6 7.4-5.4-.3-9.3 7.5 5.4z"/><path fill="#a475ef" d="M44.8 22.7l.4-20.4-21.4-.6v6.1H7.7v15.9l-5.7.8v20.7c2.8.1 18.2 1.1 20.7.2l.7-6.7L40 32.8l-.2-2.2-.6-6.1c.4-.8 6.8.7 5.6-1.9z"/><path d="M18.4 8.7h20.4v20.4H18.4z" class="st1"/><path d="M8.6 8.7H29v20.4H8.6z" class="st1" transform="rotate(180 18.75 18.9)"/><path d="M24.5 39.7h-16V19.3h20.4v14.3" class="st1"/><path d="M23.7 3.4h20.4v20.4H23.7z" class="st0"/><path d="M3.3 23.9h20.4v20.4H3.3z" class="st0" transform="rotate(90 13.5 34.1)"/><path fill="none" stroke="#444" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M39.6 34.5V23.9h5.6V2.4H23.7v5.5H7.8v16H2.2v21.4h21.5v-4.8h3.6"/></svg>
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M24.2001 16.9L32.9001 13.8L30.1001 22.6L35.8001 29.9H26.6001L21.4001 37.6L18.5001 28.8L9.6001 26.2L17.0001 20.8L16.7001 11.5L24.2001 16.9Z" fill="#00C8E2"/>
+<path d="M44.8 22.7L45.2 2.29995L23.8 1.69995V7.79995H7.7V23.7L2 24.5V45.2C4.8 45.3 20.2 46.3 22.7 45.4L23.4 38.7L40 32.7999L39.8 30.6L39.2 24.5C39.6 23.7 46 25.2 44.8 22.6V22.7Z" fill="#00DFFC"/>
+<path d="M18.3999 8.69995H38.7999V29.1H18.3999V8.69995Z" stroke="#444444" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28.8999 29.1001L8.4999 29.1001L8.4999 8.7001L28.8999 8.7001L28.8999 29.1001Z" stroke="#444444" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24.5 39.7001H8.5V19.3H28.9V33.6" stroke="#444444" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.7 3.3999H44.0999V23.7999H23.7V3.3999Z" stroke="#444444" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.7 23.8999V44.2999H3.29995V23.8999H23.7Z" stroke="#444444" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M39.5999 34.4999V23.8999H45.2V2.3999H23.7V7.8999H7.79995V23.8999H2.19995V45.2999H23.7V40.4999H27.2999" stroke="#444444" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
