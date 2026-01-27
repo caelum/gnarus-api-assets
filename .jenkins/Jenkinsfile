@@ -10,6 +10,7 @@ def getDaysNumberOfBuildToKeep(){
 pipeline {
     agent any
     options {
+        disableConcurrentBuilds()
         timestamps()
         buildDiscarder(
             logRotator(
