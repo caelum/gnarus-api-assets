@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #56a145;
+      }
+
+      .cls-2 {
+        stroke: url(#linear-gradient-5);
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-5 {
+        fill: url(#Gradiente_sem_nome_6-3);
+      }
+
+      .cls-6 {
+        fill: #446ec1;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-8 {
+        fill: #3d6ce2;
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-10 {
+        fill: url(#Gradiente_sem_nome_6-2);
+      }
+
+      .cls-11 {
+        fill: #444;
+      }
+
+      .cls-3 {
+        stroke: #f4f4f4;
+      }
+
+      .cls-12 {
+        fill: #191919;
+      }
+
+      .cls-13 {
+        fill: #ca3328;
+      }
+
+      .cls-14 {
+        fill: #3b6d2f;
+      }
+
+      .cls-15 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-16 {
+        fill: url(#Gradiente_sem_nome_6);
+      }
+
+      .cls-17 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-18 {
+        fill: #2a2828;
+      }
+
+      .cls-19 {
+        fill: #754c24;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="111.34" y1="225.81" x2="81.06" y2="210.25" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3d6ce2"/>
+      <stop offset="1" stop-color="#50deff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="123.81" y1="234.85" x2="74.4" y2="218.58" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="179.98" y1="193.4" x2="-5.65" y2="107.03" xlink:href="#linear-gradient"/>
+    <linearGradient id="Gradiente_sem_nome_6" data-name="Gradiente sem nome 6" x1="10.75" y1="154.54" x2="182.16" y2="154.54" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#514f4f"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="270.89" y1="214.92" x2="137.96" y2="130.3" gradientTransform="translate(-7.54 15.63)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ca3328"/>
+      <stop offset="1" stop-color="#9761ff"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_6-2" data-name="Gradiente sem nome 6" x1="185.82" y1="182.38" x2="264.39" y2="182.38" gradientTransform="translate(-7 15.67)" xlink:href="#Gradiente_sem_nome_6"/>
+    <linearGradient id="linear-gradient-5" x1="231.01" y1="237.31" x2="219.2" y2="229.79" gradientTransform="translate(-15.03 15.04)" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="linear-gradient-6" x1="260.67" y1="95.87" x2="177.89" y2="53.18" gradientTransform="translate(5.34 8.7)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#56a145"/>
+      <stop offset="1" stop-color="#3d6ce2"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_6-3" data-name="Gradiente sem nome 6" x1="203.29" y1="75.53" x2="243.74" y2="75.53" gradientTransform="translate(4.87 8.79)" xlink:href="#Gradiente_sem_nome_6"/>
+  </defs>
+  <path class="cls-18" d="M0,54.55h212.32c13.73,0,24.88,11.15,24.88,24.88v164.09H21.28c-11.74,0-21.27-9.53-21.27-21.27V54.55h0Z"/>
+  <g>
+    <g>
+      <rect class="cls-6" x="133.52" y="211.61" width="11.32" height="3.8" rx="1.55" ry="1.55"/>
+      <rect class="cls-6" x="146.7" y="211.61" width="11.32" height="3.8" rx="1.55" ry="1.55"/>
+      <rect class="cls-8" x="83.05" y="208.54" width="19.37" height="19.25" rx="7.04" ry="7.04"/>
+      <rect class="cls-17" x="86.77" y="208.54" width="19.37" height="19.25" rx="7.04" ry="7.04"/>
+      <rect class="cls-8" x="56.18" y="222.55" width="58.49" height="10.48" rx="4.29" ry="4.29"/>
+      <rect class="cls-4" x="73.18" y="222.55" width="58.49" height="10.51" rx="4.3" ry="4.3"/>
+      <rect class="cls-8" y="96" width="189.64" height="116.56" rx="12" ry="12"/>
+      <rect class="cls-9" x="3.27" y="96.26" width="186.37" height="116.56" rx="12" ry="12"/>
+      <rect class="cls-16" x="10.75" y="102.2" width="171.41" height="104.68" rx="12" ry="12"/>
+      <polygon class="cls-11" points="97.29 206.88 173.4 102.2 150.11 102.2 71.44 206.88 97.29 206.88"/>
+    </g>
+    <g>
+      <rect class="cls-13" x="171.25" y="145.19" width="85.55" height="111.3" rx="6.38" ry="6.38" transform="translate(34.13 -31.06) rotate(9.02)"/>
+      <rect class="cls-7" x="174.79" y="145.75" width="85.55" height="111.3" rx="6.38" ry="6.38" transform="translate(34.26 -31.61) rotate(9.02)"/>
+      <rect class="cls-10" x="178.81" y="153.99" width="78.57" height="88.11" rx="1.54" ry="1.54" transform="translate(33.74 -31.74) rotate(9.02)"/>
+      <rect class="cls-12" x="203.32" y="243.66" width="13.55" height="9.71" transform="translate(41.55 -29.86) rotate(9.02)"/>
+      <rect class="cls-2" x="205.19" y="245.8" width="9.77" height="5.57" transform="translate(41.56 -29.85) rotate(9.02)"/>
+      <ellipse class="cls-13" cx="225.61" cy="150.7" rx="2.24" ry="2.21" transform="translate(41.41 349.9) rotate(-80.98)"/>
+      <ellipse class="cls-12" cx="225.61" cy="150.7" rx="1.24" ry="1.22" transform="translate(41.41 349.9) rotate(-80.98)"/>
+    </g>
+    <g>
+      <rect class="cls-1" x="204.01" y="42.47" width="45.55" height="87.65" rx="5.39" ry="5.39" transform="translate(-15.68 95.57) rotate(-23.02)"/>
+      <path class="cls-19" d="M252.8,112.68c-.03.15-.07.3-.12.45l.12-.45Z"/>
+      <rect class="cls-15" x="206.08" y="41.59" width="45.55" height="87.65" rx="5.39" ry="5.39" transform="translate(-15.18 96.31) rotate(-23.02)"/>
+      <rect class="cls-5" x="208.17" y="50.87" width="40.45" height="66.92" transform="translate(-14.79 96.04) rotate(-23.02)"/>
+      <circle class="cls-14" cx="243.43" cy="120.88" r="4.31"/>
+      <rect class="cls-3" x="241.64" y="119.08" width="3.59" height="3.59" transform="translate(-27.88 104.84) rotate(-23.02)"/>
+    </g>
+  </g>
+</svg>
